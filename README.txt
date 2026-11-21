@@ -1,10 +1,10 @@
 ALTERYX BANKING FINANCIAL REPORTING DATASET — SIMULATED / SYNTHETIC
 
-# 🏦 Banking Financial Performance Analysis & Forecasting
+ 🏦 Banking Financial Performance Analysis & Forecasting
 
-### Turning Financial Data into Meaningful Business Insights 📊
+Turning Financial Data into Meaningful Business Insights 📊
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 How can banking organizations gain a clear picture of their financial performance across multiple business lines?
 
@@ -14,55 +14,55 @@ The solution brings together financial data from multiple sources, processes and
 
 It focuses on key financial performance indicators such as **Revenue, Expenses, Profitability, Budget vs. Actual Performance, and Financial Forecasting**, helping provide better visibility into financial performance and support informed business decisions.
 
-## 🎯 Key Features & Business Insights
+ 🎯 Key Features & Business Insights
 
-🔹 **Data Integration & Consolidation**
+🔹 Data Integration & Consolidation
 - Integrated financial data from multiple sources.
 - Consolidated financial information across different banking business lines.
 - Created a centralized reporting framework.
 
-🔹 **Data Preparation & Validation**
+🔹 Data Preparation & Validation
 - Utilized Alteryx for data extraction, transformation, and cleansing.
 - Performed data validation to improve accuracy and consistency.
 - Processed financial datasets for reporting and analysis.
 
-🔹 **Financial Performance Analysis**
+🔹 Financial Performance Analysis
 - Analyzed revenue and expense trends.
 - Evaluated profitability across banking business lines.
 - Monitored key financial performance indicators (KPIs).
 
-🔹 **Budget vs. Actual Analysis**
+🔹 Budget vs. Actual Analysis
 - Compared actual financial performance against budgeted figures.
 - Identified financial variances.
 - Supported performance monitoring and financial evaluation.
 
-🔹 **Financial Forecasting & Visualization**
+🔹 Financial Forecasting & Visualization
 - Incorporated forecasting to support financial planning.
 - Developed interactive dashboards using Qlik Sense.
 - Presented financial insights through structured visual reports.
 
-## 🛠️ Tools & Technologies
+ 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
 | Alteryx | Data extraction, transformation, cleansing and validation |
 | Qlik Sense | Interactive dashboards, visualization and financial reporting |
 
-## 📈 Project Workflow
+ 📈 Project Workflow
 
-**Multiple Financial Data Sources**  
+Multiple Financial Data Sources
 ⬇️  
-**Alteryx – Data Integration & Transformation**  
+Alteryx – Data Integration & Transformation
 ⬇️  
-**Data Cleaning & Validation**  
+Data Cleaning & Validation  
 ⬇️  
-**Financial Analysis & KPI Calculation**  
+Financial Analysis & KPI Calculation  
 ⬇️  
-**Qlik Sense – Interactive Dashboards**  
+Qlik Sense – Interactive Dashboards 
 ⬇️  
-**Financial Reporting, Performance Monitoring & Forecasting**
+Financial Reporting, Performance Monitoring & Forecasting
 
-## 💡 Project Outcome
+💡 Project Outcome
 
 Developed a consolidated financial reporting solution that transforms raw financial data into actionable business insights.
 
