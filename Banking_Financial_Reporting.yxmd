@@ -1,0 +1,1950 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2026.3" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="55" y="54" width="265" height="286" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[01 - DATA INPUT & INGESTION
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[01 - DATA INPUT & INGESTION
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="2">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Directory.Directory">
+            <Position x="80" y="119" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Directory>C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx</Directory>
+              <FileSpec>Actuals_2026_*.csv</FileSpec>
+              <IncludeSubDirs value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>dir C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Actuals_2026_*.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDirectory" />
+        </Node>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicInput.DynamicInput">
+            <Position x="236" y="129" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <InputConfiguration>
+                <Configuration>
+                  <Passwords />
+                  <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Actuals_2026_01.csv</File>
+                  <FormatSpecificOptions>
+                    <CodePage>28591</CodePage>
+                    <Delimeter>,</Delimeter>
+                    <IgnoreErrors>False</IgnoreErrors>
+                    <FieldLen>254</FieldLen>
+                    <AllowShareWrite>False</AllowShareWrite>
+                    <HeaderRow>True</HeaderRow>
+                    <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                    <ImportLine>1</ImportLine>
+                  </FormatSpecificOptions>
+                </Configuration>
+              </InputConfiguration>
+              <Mode>ReadList</Mode>
+              <ReadList_Field>FullPath</ReadList_Field>
+              <ReadList_Type>Path</ReadList_Type>
+              <ErrorBehaviour>Error</ErrorBehaviour>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicInput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="785" y="37" width="281" height="255" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[03 — Data Parsing & Transformation
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[03 — Data Parsing & Transformation
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="8">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="810" y="102" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="DateTimeYear([Reporting_Month])" field="Reporting_Year" size="4" type="Int32" enabled="true" />
+                <FormulaField expression="DateTimeMonth([Reporting_Month])" field="Reporting_Month_Number" size="4" type="Int32" enabled="true" />
+                <FormulaField expression="DateTimeQuarter([Reporting_Month])&#xA;" field="Reporting_Quarter" size="4" type="Int32" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Reporting_Year = DateTimeYear([Reporting_Month])
+Reporting_Month_Number = DateTi...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="52" y="373" width="840" height="1018" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[04 - DATA QUALITY VALIDATION
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[04 - DATA QUALITY VALIDATION
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="10">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+            <Position x="78" y="442" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UniqueFields>
+                <Field field="Transaction_ID" />
+              </UniqueFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+        </Node>
+        <Node ToolID="11">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="186" y="443" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>IsNull([Amount_LCY])</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>IsNull([Amount_LCY])</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="12">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="390" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Account_Mapping.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Account_Code" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv" type="V_WString" />
+                <Field name="Account_Name" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv" type="V_WString" />
+                <Field name="Account_Class" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv" type="V_WString" />
+                <Field name="P&amp;L_Category" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv" type="V_WString" />
+                <Field name="Statement_Treatment" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv" type="V_WString" />
+                <Field name="Baseline_GBP_Month" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv" type="V_WString" />
+                <Field name="Cost_or_Revenue_Driver" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Account_Mapping.csv" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="13">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="330" y="618" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Account_Code" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Account_Code" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Account_Code" selected="True" rename="Right_Account_Code" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="14">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="594" y="606" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Country_Segments.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Country_Segments.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Country" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Country_Segments.csv" type="V_WString" />
+                <Field name="Region" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Country_Segments.csv" type="V_WString" />
+                <Field name="Functional_Currency" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Country_Segments.csv" type="V_WString" />
+                <Field name="Business_Line" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Country_Segments.csv" type="V_WString" />
+                <Field name="Finance_Owner" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Country_Segments.csv" type="V_WString" />
+                <Field name="Segment_Factor" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Country_Segments.csv" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="15">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="474" y="738" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Country" />
+                <Field field="Business_Line" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Country" />
+                <Field field="Business_Line" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Country" selected="True" rename="Right_Country" input="Right_" />
+                    <SelectField field="Right_Business_Line" selected="True" rename="Right_Business_Line" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="16">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="570" y="822" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression><![CDATA[[Currency] != [Functional_Currency]
+]]></Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[[Currency] != [Functional_Currency]
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="17">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="762" y="798" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>DATETIMEFORMAT([Posting_Date],"%Y-%m") != DateTimeFormat([Reporting_Month],"%Y-%m")</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>DATETIMEFORMAT([Posting_Date],"%Y-%m") != DateTimeFormat([Reporting_Month],"%Y-%...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="18">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="750" y="966" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Posting Period Mismatch&quot;" field="Exception_Type" size="100" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Exception_Type = "Posting Period Mismatch"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="20">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="77" y="935" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Duplicate Transaction&quot;" field="Exception_Type" size="100" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Exception_Type = "Duplicate Transaction"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="21">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="199" y="935" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Missing Amount&quot;" field="Exception_Type" size="100" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Exception_Type = "Missing Amount"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="22">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="332" y="936" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Invalid GL Account&quot;" field="Exception_Type" size="100" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Exception_Type = "Invalid GL Account"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="23">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="558" y="954" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="&quot;Currency Mismatch&quot;" field="Exception_Type" size="100" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Exception_Type = "Currency Mismatch"
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="24">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="510" y="1134" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="25">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="606" y="1098" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Transaction_ID" selected="True" />
+                <SelectField field="Posting_Date" selected="True" />
+                <SelectField field="Reporting_Month" selected="True" />
+                <SelectField field="Country" selected="True" />
+                <SelectField field="Business_Line" selected="True" />
+                <SelectField field="Account_Code" selected="True" />
+                <SelectField field="Currency" selected="True" />
+                <SelectField field="Amount_LCY" selected="True" />
+                <SelectField field="Source_System" selected="True" />
+                <SelectField field="Exception_Type" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="26">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="750" y="1122" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\ASUS\OneDrive\Documents\altryx\output_data\Banking_Data_Quality_Validation.xlsx|||01_Exception_Detail</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <MipTenantId />
+                <PreserveFormat>False</PreserveFormat>
+                <MipSensitivity />
+                <UNCLocal>False</UNCLocal>
+                <SkipFieldNames>False</SkipFieldNames>
+                <SuppressBlankFile>False</SuppressBlankFile>
+                <OutputOption>Overwrite</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Banking_Data_Quality_Validation.xlsx
+Query=01_Exception_Detail</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+        <Node ToolID="27">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="630" y="1182" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Exception_Type" action="GroupBy" rename="Exception_Type" />
+                <SummarizeField field="Transaction_ID" action="Count" rename="Count" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="28">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="714" y="1230" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\ASUS\OneDrive\Documents\altryx\output_data\Banking_Data_Quality_Validation.xlsx|||02_Data_Quality_Summary</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <MipTenantId />
+                <PreserveFormat>False</PreserveFormat>
+                <MipSensitivity />
+                <UNCLocal>False</UNCLocal>
+                <SkipFieldNames>False</SkipFieldNames>
+                <SuppressBlankFile>False</SuppressBlankFile>
+                <OutputOption>Overwrite</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Banking_Data_Quality_Validation.xlsx
+Query=02_Data_Quality_Summary</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="391" y="55" width="268" height="149" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[02 — Data Preparation & Cleaning
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[02 — Data Preparation & Cleaning
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="5">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="416" y="120" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Transaction_ID" selected="True" />
+                <SelectField field="Posting_Date" selected="True" type="Date" size="10" />
+                <SelectField field="Reporting_Month" selected="True" type="Date" size="10" />
+                <SelectField field="Country" selected="True" />
+                <SelectField field="Business_Line" selected="True" />
+                <SelectField field="Product" selected="True" />
+                <SelectField field="Account_Code" selected="True" />
+                <SelectField field="Currency" selected="True" />
+                <SelectField field="Amount_LCY" selected="True" type="FixedDecimal" size="19.2" />
+                <SelectField field="Cost_Center" selected="True" />
+                <SelectField field="Source_System" selected="True" />
+                <SelectField field="Load_Timestamp" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="6">
+          <GuiSettings Plugin="Cleanse.yxmc">
+            <Position x="536" y="120" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="Check Box (135)">False</Value>
+              <Value name="Check Box (136)">False</Value>
+              <Value name="List Box (11)">"Transaction_ID","Posting_Date","Reporting_Month","Country","Business_Line","Product","Account_Code","Currency","Amount_LCY","Cost_Center","Source_System","Load_Timestamp"</Value>
+              <Value name="Check Box (84)">False</Value>
+              <Value name="Check Box (117)">False</Value>
+              <Value name="Check Box (15)">True</Value>
+              <Value name="Check Box (109)">False</Value>
+              <Value name="Check Box (122)">False</Value>
+              <Value name="Check Box (53)">False</Value>
+              <Value name="Check Box (58)">False</Value>
+              <Value name="Check Box (70)">False</Value>
+              <Value name="Check Box (77)">False</Value>
+              <Value name="Drop Down (81)">upper</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Cleanse.yxmc" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="257" y="1585" width="449" height="319" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[05 — Financial Data Integration & FX Conversion
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[05 — Financial Data Integration & FX Conversion
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="30">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="282" y="1650" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\FX_Rates.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>FX_Rates.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Reporting_Month" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\FX_Rates.csv" type="V_WString" />
+                <Field name="Currency" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\FX_Rates.csv" type="V_WString" />
+                <Field name="GBP_per_1_LCY" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\FX_Rates.csv" type="V_WString" />
+                <Field name="FX_Rate_Type" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\FX_Rates.csv" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="31">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="414" y="1650" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Reporting_Month" selected="True" type="Date" size="10" />
+                <SelectField field="Currency" selected="True" />
+                <SelectField field="GBP_per_1_LCY" selected="True" type="FixedDecimal" size="19.8" />
+                <SelectField field="FX_Rate_Type" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="32">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="570" y="1662" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Reporting_Month" />
+                <Field field="Currency" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Reporting_Month" />
+                <Field field="Currency" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Reporting_Month" selected="True" rename="Right_Reporting_Month" input="Right_" />
+                    <SelectField field="Right_Currency" selected="True" rename="Right_Currency" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="33">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="582" y="1758" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Amount_LCY] * [GBP_per_1_LCY]&#xA;" field="Amount_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Amount_GBP = [Amount_LCY] * [GBP_per_1_LCY]
+
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="293" y="2965" width="995" height="574" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[08 - BUDGET VS ACTUAL ANALYSIS
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[08 - BUDGET VS ACTUAL ANALYSIS
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="44">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="318" y="3042" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Budget_2026.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Reporting_Month" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv" type="V_WString" />
+                <Field name="Country" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv" type="V_WString" />
+                <Field name="Business_Line" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv" type="V_WString" />
+                <Field name="Account_Code" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv" type="V_WString" />
+                <Field name="Currency" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv" type="V_WString" />
+                <Field name="Budget_LCY" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv" type="V_WString" />
+                <Field name="Budget_Version" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Budget_2026.csv" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="425" y="3042" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Reporting_Month" selected="True" type="Date" size="10" />
+                <SelectField field="Country" selected="True" />
+                <SelectField field="Business_Line" selected="True" />
+                <SelectField field="Account_Code" selected="True" />
+                <SelectField field="Currency" selected="True" />
+                <SelectField field="Budget_LCY" selected="True" type="FixedDecimal" size="19.2" />
+                <SelectField field="Budget_Version" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="46">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="522" y="3054" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Account_Code" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Account_Code" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Account_Code" selected="True" rename="Right_Account_Code" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="47">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="630" y="3054" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Reporting_Month" />
+                <Field field="Currency" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Reporting_Month" />
+                <Field field="Currency" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Reporting_Month" selected="True" rename="Right_Reporting_Month" input="Right_" />
+                    <SelectField field="Right_Currency" selected="True" rename="Right_Currency" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="48">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="738" y="3030" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Budget_LCY] * [GBP_per_1_LCY]&#xA;" field="Budget_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF [Account_Class] =&quot;Revenue&quot;&#xA;THEN [Budget_GBP]&#xA;ELSE 0&#xA;ENDIF" field="Budget_Revenue_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF [Account_Class] =&quot;Expense&quot;&#xA;THEN [Budget_GBP]&#xA;ELSE 0&#xA;ENDIF" field="Budget_Expense_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="[Budget_Revenue_GBP] - [Budget_Expense_GBP]&#xA;" field="Budget_Profit_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Budget_GBP = [Budget_LCY] * [GBP_per_1_LCY]
+
+Budget_Revenue_GBP = IF [Account_Cl...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="49">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="762" y="3222" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Reporting_Month" action="GroupBy" rename="Reporting_Month" />
+                <SummarizeField field="Country" action="GroupBy" rename="Country" />
+                <SummarizeField field="Business_Line" action="GroupBy" rename="Business_Line" />
+                <SummarizeField field="Budget_Revenue_GBP" action="Sum" rename="Sum_Budget_Revenue_GBP" />
+                <SummarizeField field="Budget_Expense_GBP" action="Sum" rename="Sum_Budget_Expense_GBP" />
+                <SummarizeField field="Budget_Profit_GBP" action="Sum" rename="Sum_Budget_Profit_GBP" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="50">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="882" y="3222" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Reporting_Month" />
+                <Field field="Country" />
+                <Field field="Business_Line" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Reporting_Month" />
+                <Field field="Country" />
+                <Field field="Business_Line" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Reporting_Month" selected="True" rename="Right_Reporting_Month" input="Right_" />
+                    <SelectField field="Right_Country" selected="True" rename="Right_Country" input="Right_" />
+                    <SelectField field="Right_Business_Line" selected="True" rename="Right_Business_Line" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="51">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1002" y="3234" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Total_Revenue_GBP] -[Sum_Budget_Revenue_GBP]" field="Revenue_Variance_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="[Sum_Budget_Expense_GBP] - [Total_Expense_GBP]" field="Expense_Variance_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="[Profit_Contribution_GBP] - [Sum_Budget_Profit_GBP]&#xA;" field="Profit_Variance_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF IsNull([Sum_Budget_Revenue_GBP])&#xA;OR [Sum_Budget_Revenue_GBP] = 0&#xA;THEN Null()&#xA;ELSE ([Revenue_Variance_GBP] / [Sum_Budget_Revenue_GBP]) * 100&#xA;ENDIF&#xA;" field="Revenue_Variance_Percentage" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF IsNull([Sum_Budget_Expense_GBP])&#xA;OR [Sum_Budget_Expense_GBP] = 0&#xA;THEN Null()&#xA;ELSE ([Expense_Variance_GBP] / [Sum_Budget_Expense_GBP]) * 100&#xA;ENDIF" field="Expense_Variance_Percentage" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF IsNull([Sum_Budget_Profit_GBP])&#xA;OR [Sum_Budget_Profit_GBP] = 0&#xA;THEN Null()&#xA;ELSE ([Profit_Variance_GBP] / [Sum_Budget_Profit_GBP]) * 100&#xA;ENDIF&#xA;" field="Profit_Variance_Percentage" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF [Profit_Variance_GBP] &gt; 0&#xA;THEN &quot;Favourable&quot;&#xA;ELSEIF [Profit_Variance_GBP] &lt; 0&#xA;THEN &quot;Unfavourable&quot;&#xA;ELSE &quot;On Budget&quot;&#xA;ENDIF&#xA;" field="Performance Status" size="30" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Revenue_Variance_GBP = [Total_Revenue_GBP] -[Sum_Budget_Revenue_GBP]
+Expense_Var...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="52">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1134" y="3234" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Business_Line" selected="True" />
+                <SelectField field="Transaction_Count" selected="True" />
+                <SelectField field="Country" selected="True" />
+                <SelectField field="Reporting_Month" selected="True" />
+                <SelectField field="Total_Expense_GBP" selected="True" />
+                <SelectField field="Profit_Contribution_GBP" selected="True" />
+                <SelectField field="Total_Revenue_GBP" selected="True" />
+                <SelectField field="Sum_Budget_Revenue_GBP" selected="True" />
+                <SelectField field="Sum_Budget_Expense_GBP" selected="True" />
+                <SelectField field="Sum_Budget_Profit_GBP" selected="True" />
+                <SelectField field="Revenue_Variance_GBP" selected="True" />
+                <SelectField field="Expense_Variance_GBP" selected="True" />
+                <SelectField field="Profit_Variance_GBP" selected="True" />
+                <SelectField field="Revenue_Variance_Percentage" selected="True" />
+                <SelectField field="Expense_Variance_Percentage" selected="True" />
+                <SelectField field="Profit_Variance_Percentage" selected="True" />
+                <SelectField field="Performance Status" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="53">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="1158" y="3378" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\ASUS\OneDrive\Documents\altryx\output_data\Banking_Processed_Financial_Data.xlsx|||Budget vs Actual</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <MipTenantId />
+                <PreserveFormat>False</PreserveFormat>
+                <MipSensitivity />
+                <UNCLocal>False</UNCLocal>
+                <SkipFieldNames>False</SkipFieldNames>
+                <SuppressBlankFile>False</SuppressBlankFile>
+                <OutputOption>Overwrite</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Banking_Processed_Financial_Data.xlsx
+Query=Budget vs Actual</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="305" y="2533" width="409" height="409" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[07 - MONTHLY FINANCIAL AGGREGATION
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[07 - MONTHLY FINANCIAL AGGREGATION
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="37">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="330" y="2598" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Business_Line" action="GroupBy" rename="Business_Line" />
+                <SummarizeField field="Transaction_ID" action="Count" rename="Transaction_Count" />
+                <SummarizeField field="Country" action="GroupBy" rename="Country" />
+                <SummarizeField field="Reporting_Month" action="GroupBy" rename="Reporting_Month" />
+                <SummarizeField field="Expense_GBP" action="Sum" rename="Total_Expense_GBP" />
+                <SummarizeField field="Net_Profit_Contribution_GBP" action="Sum" rename="Profit_Contribution_GBP" />
+                <SummarizeField field="Revenue_GBP" action="Sum" rename="Total_Revenue_GBP" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="38">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="450" y="2598" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="Reporting_Month" order="Ascending" />
+                <Field field="Country" order="Ascending" />
+                <Field field="Business_Line" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Reporting_Month - Ascending
+Country - Ascending
+Business_Line - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="39">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="630" y="2598" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Transaction_Count" action="Sum" rename="Sum_Transaction_Count" />
+                <SummarizeField field="Total_Revenue_GBP" action="Sum" rename="Sum_Total_Revenue_GBP" />
+                <SummarizeField field="Total_Expense_GBP" action="Sum" rename="Sum_Total_Expense_GBP" />
+                <SummarizeField field="Profit_Contribution_GBP" action="Sum" rename="Sum_Profit_Contribution_GBP" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="41">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="462" y="2766" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\ASUS\OneDrive\Documents\altryx\output_data\Banking_Processed_Financial_Data.xlsx|||01_Monthly_Financial_Summary</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <MipTenantId />
+                <PreserveFormat>False</PreserveFormat>
+                <MipSensitivity />
+                <UNCLocal>False</UNCLocal>
+                <SkipFieldNames>False</SkipFieldNames>
+                <SuppressBlankFile>False</SuppressBlankFile>
+                <OutputOption>Overwrite</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Banking_Processed_Financial_Data.xlsx
+Query=01_Monthly_Financial_Summary</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+        <Node ToolID="42">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="570" y="2742" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\ASUS\OneDrive\Documents\altryx\output_data\Banking_Processed_Financial_Data.xlsx|||02_Financial_Reconciliation</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <MipTenantId />
+                <PreserveFormat>False</PreserveFormat>
+                <MipSensitivity />
+                <UNCLocal>False</UNCLocal>
+                <SkipFieldNames>False</SkipFieldNames>
+                <SuppressBlankFile>False</SuppressBlankFile>
+                <OutputOption>Overwrite</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Banking_Processed_Financial_Data.xlsx
+Query=02_Financial_Reconciliation</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="377" y="2005" width="254" height="271" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[06 - FINANCIAL CALCULATIONS
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[06 - FINANCIAL CALCULATIONS
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="35">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="402" y="2070" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="IF [Account_Class] = &quot;Revenue&quot;&#xA;THEN [Amount_GBP]&#xA;ELSE 0&#xA;ENDIF" field="Revenue_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF [Account_Class] =&quot;Expense&quot;&#xA;THEN [Amount_GBP]&#xA;ELSE 0&#xA;ENDIF" field="Expense_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="[Revenue_GBP] - [Expense_GBP]" field="Net_Profit_Contribution_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Revenue_GBP = IF [Account_Class] = "Revenue"
+THEN [Amount_GBP]
+ELSE 0
+ENDIF
+Expe...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="54">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="173" y="3601" width="961" height="292" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[Forecast Integration and Analysis
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[Forecast Integration and Analysis
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="55">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+            <Position x="198" y="3666" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv</File>
+              <FormatSpecificOptions>
+                <CodePage>28591</CodePage>
+                <Delimeter>,</Delimeter>
+                <IgnoreErrors>False</IgnoreErrors>
+                <FieldLen>254</FieldLen>
+                <AllowShareWrite>False</AllowShareWrite>
+                <HeaderRow>True</HeaderRow>
+                <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+                <ImportLine>1</ImportLine>
+              </FormatSpecificOptions>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Forecast_Q4_2026.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Reporting_Month" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Country" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Business_Line" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Account_Code" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Currency" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Scenario" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Forecast_LCY" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Forecast_As_Of" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+                <Field name="Forecast_Version" size="254" source="File: C:\Users\ASUS\OneDrive\Documents\altryx\Alteryx_Banking_CSV_Files (2)\Banking_Alteryx\Forecast_Q4_2026.csv" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+        </Node>
+        <Node ToolID="56">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="330" y="3666" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Reporting_Month" selected="True" type="Date" size="10" />
+                <SelectField field="Country" selected="True" />
+                <SelectField field="Business_Line" selected="True" />
+                <SelectField field="Account_Code" selected="True" />
+                <SelectField field="Currency" selected="True" />
+                <SelectField field="Scenario" selected="True" />
+                <SelectField field="Forecast_LCY" selected="True" type="FixedDecimal" size="19.2" />
+                <SelectField field="Forecast_As_Of" selected="True" type="Date" size="10" />
+                <SelectField field="Forecast_Version" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="57">
+          <GuiSettings Plugin="Cleanse.yxmc">
+            <Position x="426" y="3666" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="Check Box (135)">False</Value>
+              <Value name="Check Box (136)">False</Value>
+              <Value name="List Box (11)">"Reporting_Month","Country","Business_Line","Account_Code","Currency","Scenario","Forecast_LCY","Forecast_As_Of","Forecast_Version"</Value>
+              <Value name="Check Box (84)">False</Value>
+              <Value name="Check Box (117)">False</Value>
+              <Value name="Check Box (15)">True</Value>
+              <Value name="Check Box (109)">True</Value>
+              <Value name="Check Box (122)">False</Value>
+              <Value name="Check Box (53)">False</Value>
+              <Value name="Check Box (58)">False</Value>
+              <Value name="Check Box (70)">False</Value>
+              <Value name="Check Box (77)">False</Value>
+              <Value name="Drop Down (81)">upper</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Cleanse.yxmc" />
+        </Node>
+        <Node ToolID="59">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="522" y="3678" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Currency" />
+                <Field field="Reporting_Month" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Currency" />
+                <Field field="Reporting_Month" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Reporting_Month" selected="True" rename="Right_Reporting_Month" input="Right_" />
+                    <SelectField field="Right_Currency" selected="True" rename="Right_Currency" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="60">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="630" y="3690" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Forecast_LCY]*[GBP_per_1_LCY]" field="Forecast_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[Forecast_GBP = [Forecast_LCY]*[GBP_per_1_LCY]
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="61">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="750" y="3702" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Account_Code" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="Account_Code" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_Account_Code" selected="True" rename="Right_Account_Code" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="62">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="822" y="3702" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="IF [Account_Class] = &quot;Revenue&quot;&#xA;THEN [Forecast_GBP]&#xA;ELSE 0&#xA;ENDIF" field="Forecast_Revenue_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="IF [Account_Class] = &quot;Expense&quot;&#xA;THEN [Forecast_GBP]&#xA;ELSE 0&#xA;ENDIF" field="Forecast_Expense_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+                <FormulaField expression="[Forecast_Revenue_GBP] - [Forecast_Expense_GBP]" field="Forecast_Profit_GBP" size="19.2" type="FixedDecimal" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Forecast_Revenue_GBP = IF [Account_Class] = "Revenue"
+THEN [Forecast_GBP]
+ELSE 0...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="63">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="906" y="3702" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Reporting_Month" action="GroupBy" rename="Reporting_Month" />
+                <SummarizeField field="Country" action="GroupBy" rename="Country" />
+                <SummarizeField field="Business_Line" action="GroupBy" rename="Business_Line" />
+                <SummarizeField field="Scenario" action="GroupBy" rename="Scenario" />
+                <SummarizeField field="Forecast_As_Of" action="GroupBy" rename="Forecast_As_Of" />
+                <SummarizeField field="Forecast_Version" action="GroupBy" rename="Forecast_Version" />
+                <SummarizeField field="Forecast_Revenue_GBP" action="Sum" rename="Total_Forecast_Revenue_GBP" />
+                <SummarizeField field="Forecast_Expense_GBP" action="Sum" rename="Total_Forecast_Expense_GBP" />
+                <SummarizeField field="Forecast_Profit_GBP" action="Sum" rename="Total_Forecast_Profit_GBP" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="64">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="1002" y="3702" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="25">C:\Users\ASUS\OneDrive\Documents\altryx\output_data\Banking_Processed_Financial_Data.xlsx|||Forecast_Summary</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <MipTenantId />
+                <PreserveFormat>False</PreserveFormat>
+                <MipSensitivity />
+                <UNCLocal>False</UNCLocal>
+                <SkipFieldNames>False</SkipFieldNames>
+                <SuppressBlankFile>False</SuppressBlankFile>
+                <OutputOption>Overwrite</OutputOption>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Banking_Processed_Financial_Data.xlsx
+Query=Forecast_Summary</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="65">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="401" y="3925" width="311" height="241" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption><![CDATA[FINAL VALIDATION AND OUTPUT REVIEW
+]]></Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText><![CDATA[FINAL VALIDATION AND OUTPUT REVIEW
+]]></AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="66">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="426" y="3990" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Total_Forecast_Revenue_GBP] -[Total_Forecast_Expense_GBP] - [Total_Forecast_Profit_GBP]" field="Profit_Check" size="19.2" type="FixedDecimal" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Profit_Check = [Total_Forecast_Revenue_GBP] -[Total_Forecast_Expense_GBP] - [Tot...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="68">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="558" y="3990" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>ABS([Profit_Check]) &gt; 0.01</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>ABS([Profit_Check]) &gt; 0.01</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Unique" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Duplicates" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="False" />
+      <Destination ToolID="13" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="13" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="True" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="46" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="46" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="61" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="61" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Join" />
+      <Destination ToolID="15" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Left" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Join" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="False" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="True" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="False" />
+      <Destination ToolID="32" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="32" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="True" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output26" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="47" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Join" />
+      <Destination ToolID="47" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="59" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="57" Connection="Output26" />
+      <Destination ToolID="59" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Join" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Join" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="Output" />
+      <Destination ToolID="50" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="50" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="50" Connection="Join" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="55" Connection="Output" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="57" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Join" />
+      <Destination ToolID="60" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Join" />
+      <Destination ToolID="62" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="62" Connection="Output" />
+      <Destination ToolID="63" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Output" />
+      <Destination ToolID="66" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="66" Connection="Output" />
+      <Destination ToolID="68" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Banking_Financial_Reporting</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="beb391da-800e-4303-a918-0966a3ae8d00" />
+      <Telemetry>
+        <PreviousWorkflowId value="c0be4431-8ed0-4205-a842-accd5bd3a040" />
+        <OriginWorkflowId value="c0be4431-8ed0-4205-a842-accd5bd3a040" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
