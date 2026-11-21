@@ -1,0 +1,13 @@
+﻿Account_Code,Account_Name,Account_Class,P&L_Category,Statement_Treatment,Baseline_GBP_Month,Cost_or_Revenue_Driver
+400100,Net Interest Income,Revenue,Net interest income,Income,1850000,Interest
+400200,Advisory Fees,Revenue,Fee and commission income,Income,680000,Advisory
+400300,Investment Management Fees,Revenue,Fee and commission income,Income,940000,Investments
+400400,Payment and Card Fees,Revenue,Fee and commission income,Income,455000,Payments
+400500,Foreign Exchange Income,Revenue,Trading and other income,Income,525000,FX
+400600,Insurance Distribution Fees,Revenue,Fee and commission income,Income,385000,Insurance
+500100,Personnel Expenses,Expense,Staff expenses,Operating expense,1260000,Employees
+500200,Technology Expenses,Expense,Technology expenses,Operating expense,515000,Technology
+500300,Branch and Operations Expenses,Expense,Premises and operations,Operating expense,390000,Operations
+500400,Marketing Expenses,Expense,Marketing and acquisition,Operating expense,255000,Marketing
+500500,Compliance Expenses,Expense,Risk and compliance,Operating expense,280000,Compliance
+500600,Expected Credit Loss Charges,Expense,Credit impairment charges,Credit impairment,235000,Credit Risk

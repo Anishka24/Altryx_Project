@@ -1,0 +1,17 @@
+﻿Country,Region,Functional_Currency,Business_Line,Finance_Owner,Segment_Factor
+Hong Kong,APAC,HKD,Wealth Management,IWPB APAC Finance,1.35
+Hong Kong,APAC,HKD,Premier Banking,IWPB APAC Finance,1.05
+Hong Kong,APAC,HKD,Private Banking,IWPB APAC Finance,1.47
+Hong Kong,APAC,HKD,Digital Payments,IWPB APAC Finance,0.8
+United Kingdom,Europe,GBP,Wealth Management,IWPB UK Finance,1.35
+United Kingdom,Europe,GBP,Premier Banking,IWPB UK Finance,1.05
+United Kingdom,Europe,GBP,Private Banking,IWPB UK Finance,1.47
+United Kingdom,Europe,GBP,Digital Payments,IWPB UK Finance,0.8
+India,APAC,INR,Wealth Management,IWPB India Finance,1.35
+India,APAC,INR,Premier Banking,IWPB India Finance,1.05
+India,APAC,INR,Private Banking,IWPB India Finance,1.47
+India,APAC,INR,Digital Payments,IWPB India Finance,0.8
+United Arab Emirates,Middle East,AED,Wealth Management,IWPB MENA Finance,1.35
+United Arab Emirates,Middle East,AED,Premier Banking,IWPB MENA Finance,1.05
+United Arab Emirates,Middle East,AED,Private Banking,IWPB MENA Finance,1.47
+United Arab Emirates,Middle East,AED,Digital Payments,IWPB MENA Finance,0.8

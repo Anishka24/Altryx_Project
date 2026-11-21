@@ -1,0 +1,1729 @@
+﻿Reporting_Month,Country,Business_Line,Account_Code,Currency,Scenario,Forecast_LCY,Forecast_As_Of,Forecast_Version
+2026-10-01,Hong Kong,Wealth Management,400100,HKD,Base,39575253.96,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400100,HKD,Optimistic,41751892.92,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400100,HKD,Downside,37002862.45,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400200,HKD,Base,14546579.84,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400200,HKD,Optimistic,15346641.73,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400200,HKD,Downside,13601052.15,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400300,HKD,Base,20108507.42,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400300,HKD,Optimistic,21214475.33,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400300,HKD,Downside,18801454.44,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400400,HKD,Base,9733373.27,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400400,HKD,Optimistic,10268708.8,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400400,HKD,Downside,9100704.01,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400500,HKD,Base,11230815.31,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400500,HKD,Optimistic,11848510.16,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400500,HKD,Downside,10500812.32,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400600,HKD,Base,8235931.23,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400600,HKD,Optimistic,8688907.45,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,400600,HKD,Downside,7700595.7,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500100,HKD,Base,26310756.63,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500100,HKD,Optimistic,25588500.56,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500100,HKD,Downside,27213576.71,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500200,HKD,Base,10753999.73,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500200,HKD,Optimistic,10458791.89,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500200,HKD,Downside,11123009.52,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500300,HKD,Base,8143805.63,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500300,HKD,Optimistic,7920250.18,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500300,HKD,Downside,8423249.94,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500400,HKD,Base,5324795.98,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500400,HKD,Optimistic,5178625.11,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500400,HKD,Downside,5507509.57,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500500,HKD,Base,5846834.8,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500500,HKD,Optimistic,5686333.46,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500500,HKD,Downside,6047461.49,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500600,HKD,Base,4907164.92,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500600,HKD,Optimistic,4772458.44,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Wealth Management,500600,HKD,Downside,5075548.03,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400100,HKD,Base,30780753.08,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400100,HKD,Optimistic,32473694.5,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400100,HKD,Downside,28780004.13,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400200,HKD,Base,11314006.54,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400200,HKD,Optimistic,11936276.9,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400200,HKD,Downside,10578596.12,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400300,HKD,Base,15639950.22,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400300,HKD,Optimistic,16500147.48,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400300,HKD,Downside,14623353.45,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400400,HKD,Base,7570401.43,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400400,HKD,Optimistic,7986773.51,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400400,HKD,Downside,7078325.34,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400500,HKD,Base,8735078.57,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400500,HKD,Optimistic,9215507.89,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400500,HKD,Downside,8167298.47,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400600,HKD,Base,6405724.29,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400600,HKD,Optimistic,6758039.12,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,400600,HKD,Downside,5989352.21,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500100,HKD,Base,20463921.81,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500100,HKD,Optimistic,19902167.1,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500100,HKD,Downside,21166115.21,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500200,HKD,Base,8364222.01,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500200,HKD,Optimistic,8134615.91,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500200,HKD,Downside,8651229.63,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500300,HKD,Base,6334071.04,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500300,HKD,Optimistic,6160194.58,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500300,HKD,Downside,6551416.62,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500400,HKD,Base,4141507.99,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500400,HKD,Optimistic,4027819.53,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500400,HKD,Downside,4283618.55,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500500,HKD,Base,4547538.19,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500500,HKD,Optimistic,4422703.8,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500500,HKD,Downside,4703581.16,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500600,HKD,Base,3816683.83,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500600,HKD,Optimistic,3711912.12,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Premier Banking,500600,HKD,Downside,3947648.48,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400100,HKD,Base,43093054.32,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400100,HKD,Optimistic,45463172.3,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400100,HKD,Downside,40292005.79,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400200,HKD,Base,17423570.07,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400200,HKD,Optimistic,18381866.42,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400200,HKD,Downside,16291038.02,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400300,HKD,Base,24085523.33,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400300,HKD,Optimistic,25410227.11,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400300,HKD,Downside,22519964.31,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400400,HKD,Base,10598562.01,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400400,HKD,Optimistic,11181482.92,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400400,HKD,Downside,9909655.48,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400500,HKD,Base,12229110.01,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400500,HKD,Optimistic,12901711.06,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400500,HKD,Downside,11434217.86,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400600,HKD,Base,8968014.01,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400600,HKD,Optimistic,9461254.78,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,400600,HKD,Downside,8385093.1,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500100,HKD,Base,28649490.55,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500100,HKD,Optimistic,27863033.94,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500100,HKD,Downside,29632561.3,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500200,HKD,Base,11709910.82,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500200,HKD,Optimistic,11388462.28,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500200,HKD,Downside,12111721.48,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500300,HKD,Base,8867699.46,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500300,HKD,Optimistic,8624272.41,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500300,HKD,Downside,9171983.26,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500400,HKD,Base,5798111.18,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500400,HKD,Optimistic,5638947.34,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500400,HKD,Downside,5997065.97,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500500,HKD,Base,6366553.45,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500500,HKD,Optimistic,6191785.32,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500500,HKD,Downside,6585013.62,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500600,HKD,Base,5343357.36,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500600,HKD,Optimistic,5196676.97,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Private Banking,500600,HKD,Downside,5526707.86,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400100,HKD,Base,23452002.35,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400100,HKD,Optimistic,24741862.48,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400100,HKD,Downside,21927622.2,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400200,HKD,Base,8620195.46,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400200,HKD,Optimistic,9094306.21,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400200,HKD,Downside,8059882.75,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400300,HKD,Base,11916152.55,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400300,HKD,Optimistic,12571540.94,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400300,HKD,Downside,11141602.63,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400400,HKD,Base,6344717.39,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400400,HKD,Optimistic,6693676.85,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400400,HKD,Downside,5932310.76,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400500,HKD,Base,7320827.76,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400500,HKD,Optimistic,7723473.28,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400500,HKD,Downside,6844973.95,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400600,HKD,Base,4880551.84,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400600,HKD,Optimistic,5148982.2,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,400600,HKD,Downside,4563315.97,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500100,HKD,Base,15591559.48,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500100,HKD,Optimistic,15163555.88,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500100,HKD,Downside,16126563.97,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500200,HKD,Base,6372740.59,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500200,HKD,Optimistic,6197802.61,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500200,HKD,Downside,6591413.06,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500300,HKD,Base,4825958.89,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500300,HKD,Optimistic,4693481.58,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500300,HKD,Downside,4991555.51,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500400,HKD,Base,3155434.65,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500400,HKD,Optimistic,3068814.88,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500400,HKD,Downside,3263709.37,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500500,HKD,Base,3464790.99,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500500,HKD,Optimistic,3369679.08,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500500,HKD,Downside,3583680.88,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500600,HKD,Base,2907949.58,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500600,HKD,Optimistic,2828123.52,2026-09-30,Sep2026_Rolling
+2026-10-01,Hong Kong,Digital Payments,500600,HKD,Downside,3007732.17,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400100,GBP,Base,3328784.8,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400100,GBP,Optimistic,3511867.96,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400100,GBP,Downside,3112413.79,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400200,GBP,Base,1223553.34,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400200,GBP,Optimistic,1290848.77,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400200,GBP,Downside,1144022.37,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400300,GBP,Base,1691382.55,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400300,GBP,Optimistic,1784408.59,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400300,GBP,Downside,1581442.68,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400400,GBP,Base,818701.13,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400400,GBP,Optimistic,863729.69,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400400,GBP,Downside,765485.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400500,GBP,Base,944655.15,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400500,GBP,Optimistic,996611.18,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400500,GBP,Downside,883252.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400600,GBP,Base,692747.1,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400600,GBP,Optimistic,730848.19,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,400600,GBP,Downside,647718.54,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500100,GBP,Base,2213071.0,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500100,GBP,Optimistic,2152320.03,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500100,GBP,Downside,2289009.71,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500200,GBP,Base,904548.86,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500200,GBP,Optimistic,879718.11,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500200,GBP,Downside,935587.31,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500300,GBP,Base,684998.17,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500300,GBP,Optimistic,666194.3,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500300,GBP,Downside,708503.01,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500400,GBP,Base,447883.42,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500400,GBP,Optimistic,435588.58,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500400,GBP,Downside,463251.97,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500500,GBP,Base,491793.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500500,GBP,Optimistic,478293.34,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500500,GBP,Downside,508668.83,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500600,GBP,Base,412755.3,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500600,GBP,Optimistic,401424.77,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Wealth Management,500600,GBP,Downside,426918.48,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400100,GBP,Base,2589054.85,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400100,GBP,Optimistic,2731452.86,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400100,GBP,Downside,2420766.28,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400200,GBP,Base,951652.6,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400200,GBP,Optimistic,1003993.49,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400200,GBP,Downside,889795.18,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400300,GBP,Base,1315519.76,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400300,GBP,Optimistic,1387873.34,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400300,GBP,Downside,1230010.97,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400400,GBP,Base,636767.55,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400400,GBP,Optimistic,671789.76,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400400,GBP,Downside,595377.65,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400500,GBP,Base,734731.78,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400500,GBP,Optimistic,775142.03,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400500,GBP,Downside,686974.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400600,GBP,Base,538803.3,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400600,GBP,Optimistic,568437.48,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,400600,GBP,Downside,503781.09,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500100,GBP,Base,1721277.44,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500100,GBP,Optimistic,1674026.69,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500100,GBP,Downside,1780340.88,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500200,GBP,Base,703538.0,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500200,GBP,Optimistic,684225.19,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500200,GBP,Downside,727679.01,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500300,GBP,Base,532776.35,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500300,GBP,Optimistic,518151.12,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500300,GBP,Downside,551057.89,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500400,GBP,Base,348353.77,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500400,GBP,Optimistic,338791.12,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500400,GBP,Downside,360307.08,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500500,GBP,Base,382506.1,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500500,GBP,Optimistic,372005.93,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500500,GBP,Downside,395631.31,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500600,GBP,Base,321031.9,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500600,GBP,Optimistic,312219.26,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Premier Banking,500600,GBP,Downside,332047.7,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400100,GBP,Base,3624676.78,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400100,GBP,Optimistic,3824034.01,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400100,GBP,Downside,3389072.79,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400200,GBP,Base,1465544.99,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400200,GBP,Optimistic,1546149.96,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400200,GBP,Downside,1370284.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400300,GBP,Base,2025900.43,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400300,GBP,Optimistic,2137324.96,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400300,GBP,Downside,1894216.91,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400400,GBP,Base,891474.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400400,GBP,Optimistic,940505.66,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400400,GBP,Downside,833528.71,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400500,GBP,Base,1028624.49,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400500,GBP,Optimistic,1085198.84,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400500,GBP,Downside,961763.9,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400600,GBP,Base,754324.63,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400600,GBP,Optimistic,795812.48,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,400600,GBP,Downside,705293.53,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500100,GBP,Base,2409788.42,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500100,GBP,Optimistic,2343637.37,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500100,GBP,Downside,2492477.24,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500200,GBP,Base,984953.2,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500200,GBP,Optimistic,957915.27,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500200,GBP,Downside,1018750.62,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500300,GBP,Base,745886.89,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500300,GBP,Optimistic,725411.57,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500300,GBP,Downside,771481.05,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500400,GBP,Base,487695.27,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500400,GBP,Optimistic,474307.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500400,GBP,Downside,504429.91,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500500,GBP,Base,535508.54,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500500,GBP,Optimistic,520808.3,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500500,GBP,Downside,553883.83,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500600,GBP,Base,449444.67,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500600,GBP,Optimistic,437106.97,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Private Banking,500600,GBP,Downside,464866.79,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400100,GBP,Base,1972613.22,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400100,GBP,Optimistic,2081106.94,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400100,GBP,Downside,1844393.36,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400200,GBP,Base,725068.64,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400200,GBP,Optimistic,764947.42,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400200,GBP,Downside,677939.18,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400300,GBP,Base,1002300.76,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400300,GBP,Optimistic,1057427.31,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400300,GBP,Downside,937151.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400400,GBP,Base,533671.84,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400400,GBP,Optimistic,563023.79,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400400,GBP,Downside,498983.17,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400500,GBP,Base,615775.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400500,GBP,Optimistic,649642.84,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400500,GBP,Downside,575749.82,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400600,GBP,Base,410516.8,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400600,GBP,Optimistic,433095.23,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,400600,GBP,Downside,383833.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500100,GBP,Base,1311449.48,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500100,GBP,Optimistic,1275448.91,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500100,GBP,Downside,1356450.2,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500200,GBP,Base,536028.95,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500200,GBP,Optimistic,521314.43,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500200,GBP,Downside,554422.1,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500300,GBP,Base,405924.84,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500300,GBP,Optimistic,394781.81,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500300,GBP,Downside,419853.64,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500400,GBP,Base,265412.39,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500400,GBP,Optimistic,258126.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500400,GBP,Downside,274519.68,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500500,GBP,Base,291433.22,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500500,GBP,Optimistic,283433.09,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500500,GBP,Downside,301433.38,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500600,GBP,Base,244595.73,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500600,GBP,Optimistic,237881.34,2026-09-30,Sep2026_Rolling
+2026-10-01,United Kingdom,Digital Payments,500600,GBP,Downside,252988.72,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400100,INR,Base,266360497.67,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400100,INR,Optimistic,281010325.04,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400100,INR,Downside,249047065.32,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400200,INR,Base,97905480.23,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400200,INR,Optimistic,103290281.64,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400200,INR,Downside,91541624.01,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400300,INR,Base,135339928.55,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400300,INR,Optimistic,142783624.62,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400300,INR,Downside,126542833.19,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400400,INR,Base,65510284.56,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400400,INR,Optimistic,69113350.22,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400400,INR,Downside,61252116.07,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400500,INR,Base,75588789.87,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400500,INR,Optimistic,79746173.32,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400500,INR,Downside,70675518.53,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400600,INR,Base,55431779.25,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400600,INR,Optimistic,58480527.1,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,400600,INR,Downside,51828713.59,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500100,INR,Base,177084049.42,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500100,INR,Optimistic,172222918.65,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500100,INR,Downside,183160462.88,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500200,INR,Base,72379591.63,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500200,INR,Optimistic,70392700.88,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500200,INR,Downside,74863205.07,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500300,INR,Base,54811729.58,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500300,INR,Optimistic,53307093.87,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500300,INR,Downside,56692524.23,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500400,INR,Base,35838438.57,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500400,INR,Optimistic,34854638.3,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500400,INR,Downside,37068188.91,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500500,INR,Base,39352010.99,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500500,INR,Optimistic,38271759.7,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500500,INR,Downside,40702325.09,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500600,INR,Base,33027580.65,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500600,INR,Optimistic,32120941.18,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Wealth Management,500600,INR,Downside,34160879.98,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400100,INR,Base,207169275.96,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400100,INR,Optimistic,218563586.14,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400100,INR,Downside,193703273.03,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400200,INR,Base,76148706.84,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400200,INR,Optimistic,80336885.72,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400200,INR,Downside,71199040.9,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400300,INR,Base,105264388.87,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400300,INR,Optimistic,111053930.26,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400300,INR,Downside,98422203.59,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400400,INR,Base,50952443.55,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400400,INR,Optimistic,53754827.94,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400400,INR,Downside,47640534.72,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400500,INR,Base,58791281.02,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400500,INR,Optimistic,62024801.47,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400500,INR,Downside,54969847.75,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400600,INR,Base,43113606.08,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400600,INR,Optimistic,45484854.41,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,400600,INR,Downside,40311221.68,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500100,INR,Base,137732038.44,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500100,INR,Optimistic,133951158.96,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500100,INR,Downside,142458137.8,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500200,INR,Base,56295237.93,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500200,INR,Optimistic,54749878.46,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500200,INR,Downside,58226937.27,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500300,INR,Base,42631345.24,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500300,INR,Optimistic,41461073.01,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500300,INR,Downside,44094185.51,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500400,INR,Base,27874341.11,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500400,INR,Optimistic,27109163.12,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500400,INR,Downside,28830813.6,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500500,INR,Base,30607119.66,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500500,INR,Optimistic,29766924.21,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500500,INR,Downside,31657363.96,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500600,INR,Base,25688118.28,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500600,INR,Optimistic,24982954.25,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Premier Banking,500600,INR,Downside,26569573.32,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400100,INR,Base,290036986.35,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400100,INR,Optimistic,305989020.6,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400100,INR,Downside,271184582.23,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400200,INR,Base,117269008.53,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400200,INR,Optimistic,123718804.0,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400200,INR,Downside,109646522.98,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400300,INR,Base,162107158.85,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400300,INR,Optimistic,171023052.59,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400300,INR,Downside,151570193.53,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400400,INR,Base,71333420.97,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400400,INR,Optimistic,75256759.12,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400400,INR,Downside,66696748.61,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400500,INR,Base,82307793.42,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400500,INR,Optimistic,86834722.06,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400500,INR,Downside,76957786.85,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400600,INR,Base,60359048.51,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400600,INR,Optimistic,63678796.17,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,400600,INR,Downside,56435710.35,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500100,INR,Base,192824853.82,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500100,INR,Optimistic,187531622.54,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500100,INR,Downside,199441392.92,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500200,INR,Base,78813333.11,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500200,INR,Optimistic,76649829.84,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500200,INR,Downside,81517712.18,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500300,INR,Base,59683883.33,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500300,INR,Optimistic,58045502.21,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500300,INR,Downside,61731859.71,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500400,INR,Base,39024077.56,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500400,INR,Optimistic,37952828.37,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500400,INR,Downside,40363139.04,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500500,INR,Base,42849967.51,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500500,INR,Optimistic,41673693.89,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500500,INR,Downside,44320309.53,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500600,INR,Base,35963365.59,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500600,INR,Optimistic,34976135.95,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Private Banking,500600,INR,Downside,37197402.65,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400100,INR,Base,157843257.88,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400100,INR,Optimistic,166524637.06,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400100,INR,Downside,147583446.11,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400200,INR,Base,58018062.35,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400200,INR,Optimistic,61209055.78,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400200,INR,Downside,54246888.3,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400300,INR,Base,80201439.14,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400300,INR,Optimistic,84612518.29,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400300,INR,Downside,74988345.6,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400400,INR,Base,42703000.3,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400400,INR,Optimistic,45051665.32,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400400,INR,Downside,39927305.28,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400500,INR,Base,49272692.67,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400500,INR,Optimistic,51982690.76,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400500,INR,Downside,46069967.64,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400600,INR,Base,32848461.77,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400600,INR,Optimistic,34655127.17,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,400600,INR,Downside,30713311.76,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500100,INR,Base,104938695.95,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500100,INR,Optimistic,102058025.87,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500100,INR,Downside,108539533.56,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500200,INR,Base,42891609.85,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500200,INR,Optimistic,41714193.11,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500200,INR,Downside,44363380.78,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500300,INR,Base,32481024.94,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500300,INR,Optimistic,31589388.96,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500300,INR,Downside,33595569.92,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500400,INR,Base,21237593.22,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500400,INR,Optimistic,20654600.47,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500400,INR,Downside,21966334.17,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500500,INR,Base,23319710.21,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500500,INR,Optimistic,22679561.3,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500500,INR,Downside,24119896.34,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500600,INR,Base,19571899.64,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500600,INR,Optimistic,19034631.81,2026-09-30,Sep2026_Rolling
+2026-10-01,India,Digital Payments,500600,INR,Downside,20243484.44,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400100,AED,Base,12808236.81,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400100,AED,Optimistic,13512689.83,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400100,AED,Downside,11975701.41,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400200,AED,Base,4707892.45,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400200,AED,Optimistic,4966826.53,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400200,AED,Downside,4401879.44,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400300,AED,Base,6507968.97,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400300,AED,Optimistic,6865907.26,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400300,AED,Downside,6084950.99,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400400,AED,Base,3150133.92,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400400,AED,Optimistic,3323391.28,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400400,AED,Downside,2945375.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400500,AED,Base,3634769.9,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400500,AED,Optimistic,3834682.25,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400500,AED,Downside,3398509.86,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400600,AED,Base,2665497.94,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400600,AED,Optimistic,2812100.32,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,400600,AED,Downside,2492240.57,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500100,AED,Base,8515280.83,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500100,AED,Optimistic,8281528.02,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500100,AED,Downside,8807471.84,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500200,AED,Base,3480452.09,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500200,AED,Optimistic,3384910.26,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500200,AED,Downside,3599879.36,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500300,AED,Base,2635682.16,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500300,AED,Optimistic,2563330.1,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500300,AED,Downside,2726122.24,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500400,AED,Base,1723330.64,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500400,AED,Optimistic,1676023.53,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500400,AED,Downside,1782464.54,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500500,AED,Base,1892284.63,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500500,AED,Optimistic,1840339.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500500,AED,Downside,1957215.97,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500600,AED,Base,1588167.46,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500600,AED,Optimistic,1544570.7,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Wealth Management,500600,AED,Downside,1642663.4,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400100,AED,Base,9961961.96,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400100,AED,Optimistic,10509869.87,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400100,AED,Downside,9314434.43,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400200,AED,Base,3661694.12,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400200,AED,Optimistic,3863087.3,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400200,AED,Downside,3423684.01,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400300,AED,Base,5061753.65,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400300,AED,Optimistic,5340150.1,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400300,AED,Downside,4732739.66,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400400,AED,Base,2450104.16,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400400,AED,Optimistic,2584859.89,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400400,AED,Downside,2290847.39,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400500,AED,Base,2827043.26,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400500,AED,Optimistic,2982530.64,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400500,AED,Downside,2643285.44,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400600,AED,Base,2073165.06,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400600,AED,Optimistic,2187189.14,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,400600,AED,Downside,1938409.33,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500100,AED,Base,6622996.2,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500100,AED,Optimistic,6441188.46,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500100,AED,Downside,6850255.87,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500200,AED,Base,2707018.29,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500200,AED,Optimistic,2632707.99,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500200,AED,Downside,2799906.18,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500300,AED,Base,2049975.01,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500300,AED,Optimistic,1993701.19,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500300,AED,Downside,2120317.29,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500400,AED,Base,1340368.28,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500400,AED,Optimistic,1303573.85,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500400,AED,Downside,1386361.31,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500500,AED,Base,1471776.93,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500500,AED,Optimistic,1431375.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500500,AED,Downside,1522279.08,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500600,AED,Base,1235241.36,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500600,AED,Optimistic,1201332.77,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Premier Banking,500600,AED,Downside,1277627.09,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400100,AED,Base,13946746.75,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400100,AED,Optimistic,14713817.82,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400100,AED,Downside,13040208.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400200,AED,Base,5639008.96,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400200,AED,Optimistic,5949154.45,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400200,AED,Downside,5272473.38,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400300,AED,Base,7795100.62,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400300,AED,Optimistic,8223831.15,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400300,AED,Downside,7288419.08,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400400,AED,Base,3430145.82,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400400,AED,Optimistic,3618803.84,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400400,AED,Downside,3207186.35,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400500,AED,Base,3957860.56,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400500,AED,Optimistic,4175542.89,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400500,AED,Downside,3700599.63,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400600,AED,Base,2902431.08,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400600,AED,Optimistic,3062064.79,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,400600,AED,Downside,2713773.06,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500100,AED,Base,9272194.69,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500100,AED,Optimistic,9017663.85,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500100,AED,Downside,9590358.23,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500200,AED,Base,3789825.6,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500200,AED,Optimistic,3685791.17,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500200,AED,Downside,3919868.64,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500300,AED,Base,2869965.02,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500300,AED,Optimistic,2791181.67,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500300,AED,Downside,2968444.21,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500400,AED,Base,1876515.6,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500400,AED,Optimistic,1825003.4,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500400,AED,Downside,1940905.84,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500500,AED,Base,2060487.71,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500500,AED,Optimistic,2003925.3,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500500,AED,Downside,2131190.72,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500600,AED,Base,1729337.9,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500600,AED,Optimistic,1681865.87,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Private Banking,500600,AED,Downside,1788677.92,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400100,AED,Base,7590066.26,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400100,AED,Optimistic,8007519.91,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400100,AED,Downside,7096711.96,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400200,AED,Base,2789862.19,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400200,AED,Optimistic,2943304.61,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400200,AED,Downside,2608521.15,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400300,AED,Base,3856574.2,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400300,AED,Optimistic,4068685.78,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400300,AED,Downside,3605896.88,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400400,AED,Base,2053420.63,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400400,AED,Optimistic,2166358.77,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400400,AED,Downside,1919948.29,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400500,AED,Base,2369331.5,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400500,AED,Optimistic,2499644.73,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400500,AED,Downside,2215324.95,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400600,AED,Base,1579554.33,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400600,AED,Optimistic,1666429.82,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,400600,AED,Downside,1476883.3,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500100,AED,Base,5046092.35,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500100,AED,Optimistic,4907572.16,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500100,AED,Downside,5219242.57,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500200,AED,Base,2062490.13,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500200,AED,Optimistic,2005872.75,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500200,AED,Downside,2133261.85,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500300,AED,Base,1561885.73,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500300,AED,Optimistic,1519010.43,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500300,AED,Downside,1615479.85,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500400,AED,Base,1021232.97,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500400,AED,Optimistic,993199.12,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500400,AED,Downside,1056275.28,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500500,AED,Base,1121353.85,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500500,AED,Optimistic,1090571.59,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500500,AED,Downside,1159831.68,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500600,AED,Base,941136.28,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500600,AED,Optimistic,915301.16,2026-09-30,Sep2026_Rolling
+2026-10-01,United Arab Emirates,Digital Payments,500600,AED,Downside,973430.17,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400100,HKD,Base,41335547.57,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400100,HKD,Optimistic,43609002.68,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400100,HKD,Downside,38648736.97,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400200,HKD,Base,15193606.68,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400200,HKD,Optimistic,16029255.04,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400200,HKD,Downside,14206022.24,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400300,HKD,Base,21002926.87,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400300,HKD,Optimistic,22158087.84,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400300,HKD,Downside,19637736.62,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400400,HKD,Base,10166310.35,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400400,HKD,Optimistic,10725457.42,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400400,HKD,Downside,9505500.18,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400500,HKD,Base,11730358.09,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400500,HKD,Optimistic,12375527.79,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400500,HKD,Downside,10967884.82,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400600,HKD,Base,8602262.6,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400600,HKD,Optimistic,9075387.05,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,400600,HKD,Downside,8043115.54,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500100,HKD,Base,27296310.17,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500100,HKD,Optimistic,26546999.69,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500100,HKD,Downside,28232948.26,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500200,HKD,Base,11156825.19,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500200,HKD,Optimistic,10850559.4,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500200,HKD,Downside,11539657.43,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500300,HKD,Base,8448857.91,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500300,HKD,Optimistic,8216928.48,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500300,HKD,Downside,8738769.7,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500400,HKD,Base,5524253.25,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500400,HKD,Optimistic,5372607.08,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500400,HKD,Downside,5713810.96,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500500,HKD,Base,6065846.71,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500500,HKD,Optimistic,5899333.27,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500500,HKD,Downside,6273988.5,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500600,HKD,Base,5090978.48,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500600,HKD,Optimistic,4951226.13,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Wealth Management,500600,HKD,Downside,5265668.92,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400100,HKD,Base,32149870.32,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400100,HKD,Optimistic,33918113.19,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400100,HKD,Downside,30060128.75,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400200,HKD,Base,11817249.64,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400200,HKD,Optimistic,12467198.37,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400200,HKD,Downside,11049128.41,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400300,HKD,Base,16335609.79,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400300,HKD,Optimistic,17234068.32,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400300,HKD,Downside,15273795.15,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400400,HKD,Base,7907130.27,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400400,HKD,Optimistic,8342022.44,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400400,HKD,Downside,7393166.81,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400500,HKD,Base,9123611.85,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400500,HKD,Optimistic,9625410.51,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400500,HKD,Downside,8530577.08,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400600,HKD,Base,6690648.7,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400600,HKD,Optimistic,7058634.37,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,400600,HKD,Downside,6255756.53,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500100,HKD,Base,21230463.46,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500100,HKD,Optimistic,20647666.43,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500100,HKD,Downside,21958959.76,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500200,HKD,Base,8677530.7,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500200,HKD,Optimistic,8439323.98,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500200,HKD,Downside,8975289.11,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500300,HKD,Base,6571333.92,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500300,HKD,Optimistic,6390944.37,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500300,HKD,Downside,6796820.87,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500400,HKD,Base,4296641.41,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500400,HKD,Optimistic,4178694.39,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500400,HKD,Downside,4444075.19,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500500,HKD,Base,4717880.77,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500500,HKD,Optimistic,4588370.32,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500500,HKD,Downside,4879768.84,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500600,HKD,Base,3959649.93,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500600,HKD,Optimistic,3850953.66,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Premier Banking,500600,HKD,Downside,4095520.27,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400100,HKD,Base,45009818.46,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400100,HKD,Optimistic,47485358.47,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400100,HKD,Downside,42084180.26,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400200,HKD,Base,18198564.44,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400200,HKD,Optimistic,19199485.49,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400200,HKD,Downside,17015657.75,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400300,HKD,Base,25156839.08,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400300,HKD,Optimistic,26540465.22,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400300,HKD,Downside,23521644.54,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400400,HKD,Base,11069982.38,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400400,HKD,Optimistic,11678831.41,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400400,HKD,Downside,10350433.52,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400500,HKD,Base,12773056.59,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400500,HKD,Optimistic,13475574.7,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400500,HKD,Downside,11942807.91,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400600,HKD,Base,9366908.16,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400600,HKD,Optimistic,9882088.11,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,400600,HKD,Downside,8758059.13,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500100,HKD,Base,29722648.85,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500100,HKD,Optimistic,28906732.99,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500100,HKD,Downside,30742543.66,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500200,HKD,Base,12148542.98,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500200,HKD,Optimistic,11815053.57,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500200,HKD,Downside,12565404.75,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500300,HKD,Base,9199867.5,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500300,HKD,Optimistic,8947322.12,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500300,HKD,Downside,9515549.23,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500400,HKD,Base,6015297.98,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500400,HKD,Optimistic,5850172.15,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500400,HKD,Downside,6221705.26,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500500,HKD,Base,6605033.08,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500500,HKD,Optimistic,6423718.44,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500500,HKD,Downside,6831676.37,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500600,HKD,Base,5543509.9,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500600,HKD,Optimistic,5391335.12,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Private Banking,500600,HKD,Downside,5733728.38,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400100,HKD,Base,24495139.3,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400100,HKD,Optimistic,25842371.96,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400100,HKD,Downside,22902955.25,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400200,HKD,Base,9003618.77,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400200,HKD,Optimistic,9498817.8,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400200,HKD,Downside,8418383.55,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400300,HKD,Base,12446178.89,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400300,HKD,Optimistic,13130718.73,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400300,HKD,Downside,11637177.26,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400400,HKD,Base,6626928.23,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400400,HKD,Optimistic,6991409.28,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400400,HKD,Downside,6196177.89,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400500,HKD,Base,7646455.65,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400500,HKD,Optimistic,8067010.71,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400500,HKD,Downside,7149436.03,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400600,HKD,Base,5097637.1,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400600,HKD,Optimistic,5378007.14,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,400600,HKD,Downside,4766290.69,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500100,HKD,Base,16175591.21,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500100,HKD,Optimistic,15731555.37,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500100,HKD,Downside,16730636.0,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500200,HKD,Base,6611451.96,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500200,HKD,Optimistic,6429961.12,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500200,HKD,Downside,6838315.51,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500300,HKD,Base,5006730.62,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500300,HKD,Optimistic,4869290.95,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500300,HKD,Downside,5178530.2,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500400,HKD,Base,3273631.55,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500400,HKD,Optimistic,3183767.15,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500400,HKD,Downside,3385962.04,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500500,HKD,Base,3594575.82,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500500,HKD,Optimistic,3495901.19,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500500,HKD,Downside,3717919.11,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500600,HKD,Base,3016876.14,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500600,HKD,Optimistic,2934059.93,2026-09-30,Sep2026_Rolling
+2026-11-01,Hong Kong,Digital Payments,500600,HKD,Downside,3120396.4,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400100,GBP,Base,3449360.72,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400100,GBP,Optimistic,3639075.56,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400100,GBP,Downside,3225152.27,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400200,GBP,Base,1267873.13,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400200,GBP,Optimistic,1337606.15,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400200,GBP,Downside,1185461.37,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400300,GBP,Base,1752648.15,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400300,GBP,Optimistic,1849043.8,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400300,GBP,Downside,1638726.02,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400400,GBP,Base,848356.28,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400400,GBP,Optimistic,895015.88,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400400,GBP,Downside,793213.12,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400500,GBP,Base,978872.64,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400500,GBP,Optimistic,1032710.64,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400500,GBP,Downside,915245.92,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400600,GBP,Base,717839.93,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400600,GBP,Optimistic,757321.13,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,400600,GBP,Downside,671180.34,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500100,GBP,Base,2277817.18,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500100,GBP,Optimistic,2215288.86,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500100,GBP,Downside,2355977.57,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500200,GBP,Base,931012.58,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500200,GBP,Optimistic,905455.37,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500200,GBP,Downside,962959.09,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500300,GBP,Base,705038.65,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500300,GBP,Optimistic,685684.65,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500300,GBP,Downside,729231.16,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500400,GBP,Base,460986.81,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500400,GBP,Optimistic,448332.27,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500400,GBP,Downside,476804.98,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500500,GBP,Base,506181.59,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500500,GBP,Optimistic,492286.41,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500500,GBP,Downside,523550.57,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500600,GBP,Base,424830.98,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500600,GBP,Optimistic,413168.95,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Wealth Management,500600,GBP,Downside,439408.51,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400100,GBP,Base,2682836.12,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400100,GBP,Optimistic,2830392.1,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400100,GBP,Downside,2508451.77,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400200,GBP,Base,986123.54,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400200,GBP,Optimistic,1040360.34,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400200,GBP,Downside,922025.51,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400300,GBP,Base,1363170.78,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400300,GBP,Optimistic,1438145.17,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400300,GBP,Downside,1274564.68,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400400,GBP,Base,659832.67,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400400,GBP,Optimistic,696123.46,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400400,GBP,Downside,616943.54,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400500,GBP,Base,761345.39,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400500,GBP,Optimistic,803219.39,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400500,GBP,Downside,711857.94,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400600,GBP,Base,558319.95,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400600,GBP,Optimistic,589027.54,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,400600,GBP,Downside,522029.15,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500100,GBP,Base,1771635.58,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500100,GBP,Optimistic,1723002.44,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500100,GBP,Downside,1832426.99,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500200,GBP,Base,724120.9,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500200,GBP,Optimistic,704243.07,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500200,GBP,Downside,748968.18,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500300,GBP,Base,548363.4,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500300,GBP,Optimistic,533310.29,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500300,GBP,Downside,567179.79,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500400,GBP,Base,358545.29,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500400,GBP,Optimistic,348702.87,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500400,GBP,Downside,370848.32,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500500,GBP,Base,393696.8,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500500,GBP,Optimistic,382889.44,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500500,GBP,Downside,407206.0,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500600,GBP,Base,330424.09,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500600,GBP,Optimistic,321353.63,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Premier Banking,500600,GBP,Downside,341762.18,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400100,GBP,Base,3755970.56,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400100,GBP,Optimistic,3962548.94,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400100,GBP,Downside,3511832.48,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400200,GBP,Base,1518630.26,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400200,GBP,Optimistic,1602154.92,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400200,GBP,Downside,1419919.29,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400300,GBP,Base,2099283.01,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400300,GBP,Optimistic,2214743.57,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400300,GBP,Downside,1962829.61,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400400,GBP,Base,923765.73,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400400,GBP,Optimistic,974572.84,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400400,GBP,Downside,863720.96,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400500,GBP,Base,1065883.54,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400500,GBP,Optimistic,1124507.14,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400500,GBP,Downside,996601.11,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400600,GBP,Base,781647.92,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400600,GBP,Optimistic,824638.56,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,400600,GBP,Downside,730840.81,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500100,GBP,Base,2480289.81,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500100,GBP,Optimistic,2412203.42,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500100,GBP,Downside,2565397.79,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500200,GBP,Base,1013769.25,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500200,GBP,Optimistic,985940.29,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500200,GBP,Downside,1048555.45,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500300,GBP,Base,767708.76,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500300,GBP,Optimistic,746634.4,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500300,GBP,Downside,794051.7,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500400,GBP,Base,501963.41,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500400,GBP,Optimistic,488184.02,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500400,GBP,Downside,519187.64,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500500,GBP,Base,551175.52,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500500,GBP,Optimistic,536045.21,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500500,GBP,Downside,570088.4,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500600,GBP,Base,462593.73,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500600,GBP,Optimistic,449895.08,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Private Banking,500600,GBP,Downside,478467.05,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400100,GBP,Base,2044065.61,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400100,GBP,Optimistic,2156489.22,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400100,GBP,Downside,1911201.34,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400200,GBP,Base,751332.22,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400200,GBP,Optimistic,792655.5,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400200,GBP,Downside,702495.63,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400300,GBP,Base,1038606.31,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400300,GBP,Optimistic,1095729.65,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400300,GBP,Downside,971096.9,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400400,GBP,Base,553002.62,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400400,GBP,Optimistic,583417.76,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400400,GBP,Downside,517057.45,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400500,GBP,Base,638079.94,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400500,GBP,Optimistic,673174.34,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400500,GBP,Downside,596604.75,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400600,GBP,Base,425386.62,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400600,GBP,Optimistic,448782.89,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,400600,GBP,Downside,397736.49,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500100,GBP,Base,1349817.59,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500100,GBP,Optimistic,1312763.77,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500100,GBP,Downside,1396134.86,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500200,GBP,Base,551711.15,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500200,GBP,Optimistic,536566.14,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500200,GBP,Downside,570642.42,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500300,GBP,Base,417800.68,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500300,GBP,Optimistic,406331.64,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500300,GBP,Downside,432136.97,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500400,GBP,Base,273177.37,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500400,GBP,Optimistic,265678.38,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500400,GBP,Downside,282551.1,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500500,GBP,Base,299959.46,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500500,GBP,Optimistic,291725.28,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500500,GBP,Downside,310252.19,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500600,GBP,Base,251751.69,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500600,GBP,Optimistic,244840.86,2026-09-30,Sep2026_Rolling
+2026-11-01,United Kingdom,Digital Payments,500600,GBP,Downside,260390.23,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400100,INR,Base,274744272.95,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400100,INR,Optimistic,289855207.96,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400100,INR,Downside,256885895.21,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400200,INR,Base,100987084.11,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400200,INR,Optimistic,106541373.74,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400200,INR,Downside,94422923.65,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400300,INR,Base,139599792.74,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400300,INR,Optimistic,147277781.34,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400300,INR,Downside,130525806.22,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400400,INR,Base,67572240.1,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400400,INR,Optimistic,71288713.3,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400400,INR,Downside,63180044.49,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400500,INR,Base,77967969.35,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400500,INR,Optimistic,82256207.67,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400500,INR,Downside,72900051.34,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400600,INR,Base,57176510.86,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400600,INR,Optimistic,60321218.95,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,400600,INR,Downside,53460037.65,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500100,INR,Base,181429915.2,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500100,INR,Optimistic,176449486.16,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500100,INR,Downside,187655451.51,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500200,INR,Base,74155878.04,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500200,INR,Optimistic,72120226.49,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500200,INR,Downside,76700442.48,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500300,INR,Base,56156878.51,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500300,INR,Optimistic,54615317.14,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500300,INR,Downside,58083830.23,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500400,INR,Base,36717959.03,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500400,INR,Optimistic,35710015.06,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500400,INR,Downside,37977889.0,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500500,INR,Base,40317758.94,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500500,INR,Optimistic,39210996.93,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500500,INR,Downside,41701211.45,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500600,INR,Base,33838119.1,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500600,INR,Optimistic,32909229.56,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Wealth Management,500600,INR,Downside,34999231.03,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400100,INR,Base,213689990.07,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400100,INR,Optimistic,225442939.53,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400100,INR,Downside,199800140.72,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400200,INR,Base,78545509.87,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400200,INR,Optimistic,82865512.91,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400200,INR,Downside,73440051.72,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400300,INR,Base,108577616.58,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400300,INR,Optimistic,114549385.49,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400300,INR,Downside,101520071.5,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400400,INR,Base,52556186.75,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400400,INR,Optimistic,55446777.02,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400400,INR,Downside,49140034.61,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400500,INR,Base,60641753.94,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400500,INR,Optimistic,63977050.41,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400500,INR,Downside,56700039.94,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400600,INR,Base,44470619.56,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400600,INR,Optimistic,46916503.64,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,400600,INR,Downside,41580029.29,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500100,INR,Base,141112156.27,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500100,INR,Optimistic,137238489.23,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500100,INR,Downside,145954240.06,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500200,INR,Base,57676794.03,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500200,INR,Optimistic,56093509.49,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500200,INR,Downside,59655899.7,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500300,INR,Base,43677572.18,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500300,INR,Optimistic,42478580.01,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500300,INR,Downside,45176312.41,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500400,INR,Base,28558412.57,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500400,INR,Optimistic,27774456.15,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500400,INR,Downside,29538358.1,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500500,INR,Base,31358256.95,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500500,INR,Optimistic,30497442.05,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500500,INR,Downside,32434275.57,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500600,INR,Base,26318537.08,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500600,INR,Optimistic,25596067.44,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Premier Banking,500600,INR,Downside,27221624.14,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400100,INR,Base,299165986.1,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400100,INR,Optimistic,315620115.33,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400100,INR,Downside,279720197.0,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400200,INR,Base,120960085.19,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400200,INR,Optimistic,127612889.87,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400200,INR,Downside,113097679.65,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400300,INR,Base,167209529.52,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400300,INR,Optimistic,176406053.65,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400300,INR,Downside,156340910.1,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400400,INR,Base,73578661.44,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400400,INR,Optimistic,77625487.82,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400400,INR,Downside,68796048.45,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400500,INR,Base,84898455.52,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400500,INR,Optimistic,89567870.57,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400500,INR,Downside,79380055.91,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400600,INR,Base,62258867.38,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400600,INR,Optimistic,65683105.08,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,400600,INR,Downside,58212041.0,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500100,INR,Base,197557018.78,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500100,INR,Optimistic,192133884.93,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500100,INR,Downside,204335936.09,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500200,INR,Base,80747511.64,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500200,INR,Optimistic,78530913.28,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500200,INR,Downside,83518259.59,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500300,INR,Base,61148601.05,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500300,INR,Optimistic,59470012.0,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500300,INR,Downside,63246837.36,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500400,INR,Base,39981777.61,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500400,INR,Optimistic,38884238.62,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500400,INR,Downside,41353701.35,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500500,INR,Base,43901559.73,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500500,INR,Optimistic,42696418.87,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500500,INR,Downside,45407985.8,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500600,INR,Base,36845951.92,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500600,INR,Optimistic,35834494.41,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Private Banking,500600,INR,Downside,38110273.79,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400100,INR,Base,162811421.01,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400100,INR,Optimistic,171766049.16,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400100,INR,Downside,152228678.64,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400200,INR,Base,59844198.0,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400200,INR,Optimistic,63135628.89,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400200,INR,Downside,55954325.13,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400300,INR,Base,82725803.1,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400300,INR,Optimistic,87275722.27,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400300,INR,Downside,77348625.9,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400400,INR,Base,44047089.85,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400400,INR,Optimistic,46469679.79,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400400,INR,Downside,41184029.01,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400500,INR,Base,50823565.2,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400500,INR,Optimistic,53618861.29,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400500,INR,Downside,47520033.46,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400600,INR,Base,33882376.81,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400600,INR,Optimistic,35745907.53,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,400600,INR,Downside,31680022.31,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500100,INR,Base,107514023.83,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500100,INR,Optimistic,104562658.47,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500100,INR,Downside,111203230.53,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500200,INR,Base,43944224.03,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500200,INR,Optimistic,42737912.0,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500200,INR,Downside,45452114.07,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500300,INR,Base,33278150.24,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500300,INR,Optimistic,32364632.39,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500300,INR,Downside,34420047.55,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500400,INR,Base,21758790.53,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500400,INR,Optimistic,21161490.4,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500400,INR,Downside,22505415.7,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500500,INR,Base,23892005.29,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500500,INR,Optimistic,23236146.32,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500500,INR,Downside,24711829.0,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500600,INR,Base,20052218.73,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500600,INR,Optimistic,19501765.67,2026-09-30,Sep2026_Rolling
+2026-11-01,India,Digital Payments,500600,INR,Downside,20740285.06,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400100,AED,Base,13103616.13,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400100,AED,Optimistic,13824315.02,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400100,AED,Downside,12251881.08,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400200,AED,Base,4816464.3,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400200,AED,Optimistic,5081369.84,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400200,AED,Downside,4503394.12,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400300,AED,Base,6658053.59,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400300,AED,Optimistic,7024246.54,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400300,AED,Downside,6225280.11,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400400,AED,Base,3222781.26,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400400,AED,Optimistic,3400034.23,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400400,AED,Downside,3013300.48,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400500,AED,Base,3718593.76,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400500,AED,Optimistic,3923116.42,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400500,AED,Downside,3476885.17,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400600,AED,Base,2726968.76,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400600,AED,Optimistic,2876952.04,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,400600,AED,Downside,2549715.79,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500100,AED,Base,8653093.79,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500100,AED,Optimistic,8415557.88,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500100,AED,Downside,8950013.68,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500200,AED,Base,3536780.4,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500200,AED,Optimistic,3439692.31,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500200,AED,Downside,3658140.52,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500300,AED,Base,2678338.56,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500300,AED,Optimistic,2604815.54,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500300,AED,Downside,2770242.33,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500400,AED,Base,1751221.37,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500400,AED,Optimistic,1703148.62,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500400,AED,Downside,1811312.3,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500500,AED,Base,1922909.73,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500500,AED,Optimistic,1870123.97,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500500,AED,Downside,1988891.92,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500600,AED,Base,1613870.67,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500600,AED,Optimistic,1569568.33,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Wealth Management,500600,AED,Downside,1669248.58,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400100,AED,Base,10191701.43,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400100,AED,Optimistic,10752245.01,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400100,AED,Downside,9529240.84,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400200,AED,Base,3746138.91,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400200,AED,Optimistic,3952176.55,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400200,AED,Downside,3502639.88,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400300,AED,Base,5178486.13,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400300,AED,Optimistic,5463302.87,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400300,AED,Downside,4841884.53,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400400,AED,Base,2506607.65,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400400,AED,Optimistic,2644471.07,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400400,AED,Downside,2343678.15,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400500,AED,Base,2892239.6,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400500,AED,Optimistic,3051312.78,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400500,AED,Downside,2704244.02,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400600,AED,Base,2120975.7,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400600,AED,Optimistic,2237629.36,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,400600,AED,Downside,1983112.28,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500100,AED,Base,6730184.06,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500100,AED,Optimistic,6545433.91,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500100,AED,Downside,6961121.75,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500200,AED,Base,2750829.2,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500200,AED,Optimistic,2675316.24,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500200,AED,Downside,2845220.4,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500300,AED,Base,2083152.2,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500300,AED,Optimistic,2025967.63,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500300,AED,Downside,2154632.92,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500400,AED,Base,1362061.06,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500400,AED,Optimistic,1324671.15,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500400,AED,Downside,1408798.45,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500500,AED,Base,1495596.46,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500500,AED,Optimistic,1454540.87,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500500,AED,Downside,1546915.94,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500600,AED,Base,1255232.74,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500600,AED,Optimistic,1220775.37,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Premier Banking,500600,AED,Downside,1298304.45,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400100,AED,Base,14268382.0,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400100,AED,Optimistic,15053143.01,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400100,AED,Downside,13340937.17,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400200,AED,Base,5769053.91,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400200,AED,Optimistic,6086351.88,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400200,AED,Downside,5394065.41,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400300,AED,Base,7974868.65,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400300,AED,Optimistic,8413486.42,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400300,AED,Downside,7456502.19,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400400,AED,Base,3509250.71,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400400,AED,Optimistic,3702259.49,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400400,AED,Downside,3281149.41,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400500,AED,Base,4049135.44,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400500,AED,Optimistic,4271837.89,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400500,AED,Downside,3785941.63,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400600,AED,Base,2969365.98,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400600,AED,Optimistic,3132681.11,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,400600,AED,Downside,2776357.19,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500100,AED,Base,9422257.68,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500100,AED,Optimistic,9163607.47,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500100,AED,Downside,9745570.45,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500200,AED,Base,3851160.88,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500200,AED,Optimistic,3745442.74,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500200,AED,Downside,3983308.56,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500300,AED,Base,2916413.09,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500300,AED,Optimistic,2836354.7,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500300,AED,Downside,3016486.09,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500400,AED,Base,1906885.49,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500400,AED,Optimistic,1854539.61,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500400,AED,Downside,1972317.83,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500500,AED,Base,2093835.04,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500500,AED,Optimistic,2036357.21,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500500,AED,Downside,2165682.32,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500600,AED,Base,1757325.84,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500600,AED,Optimistic,1709085.53,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Private Banking,500600,AED,Downside,1817626.24,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400100,AED,Base,7765105.86,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400100,AED,Optimistic,8192186.68,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400100,AED,Downside,7260373.98,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400200,AED,Base,2854201.07,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400200,AED,Optimistic,3011182.13,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400200,AED,Downside,2668678.0,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400300,AED,Base,3945513.25,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400300,AED,Optimistic,4162516.47,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400300,AED,Downside,3689054.89,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400400,AED,Base,2100775.94,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400400,AED,Optimistic,2216318.62,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400400,AED,Downside,1964225.5,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400500,AED,Base,2423972.23,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400500,AED,Optimistic,2557290.7,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400500,AED,Downside,2266414.03,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400600,AED,Base,1615981.48,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400600,AED,Optimistic,1704860.46,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,400600,AED,Downside,1510942.69,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500100,AED,Base,5127759.28,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500100,AED,Optimistic,4986997.26,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500100,AED,Downside,5303711.81,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500200,AED,Base,2095869.86,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500200,AED,Optimistic,2038336.18,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500200,AED,Downside,2167786.96,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500300,AED,Base,1587163.59,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500300,AED,Optimistic,1543594.39,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500300,AED,Downside,1641625.09,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500400,AED,Base,1037760.8,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500400,AED,Optimistic,1009273.25,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500400,AED,Downside,1073370.24,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500500,AED,Base,1139502.06,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500500,AED,Optimistic,1108221.61,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500500,AED,Downside,1178602.62,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500600,AED,Base,956367.8,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500600,AED,Optimistic,930114.57,2026-09-30,Sep2026_Rolling
+2026-11-01,United Arab Emirates,Digital Payments,500600,AED,Downside,989184.35,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400100,HKD,Base,44389741.01,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400100,HKD,Optimistic,46831176.76,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400100,HKD,Downside,41504407.84,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400200,HKD,Base,16316229.12,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400200,HKD,Optimistic,17213621.73,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400200,HKD,Downside,15255674.23,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400300,HKD,Base,22554787.32,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400300,HKD,Optimistic,23795300.63,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400300,HKD,Downside,21088726.15,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400400,HKD,Base,10917476.85,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400400,HKD,Optimistic,11517938.07,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400400,HKD,Downside,10207840.85,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400500,HKD,Base,12597088.66,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400500,HKD,Optimistic,13289928.54,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400500,HKD,Downside,11778277.9,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400600,HKD,Base,9237865.02,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400600,HKD,Optimistic,9745947.6,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,400600,HKD,Downside,8637403.8,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500100,HKD,Base,29120842.85,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500100,HKD,Optimistic,28321447.17,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500100,HKD,Downside,30120087.46,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500200,HKD,Base,11902566.72,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500200,HKD,Optimistic,11575829.59,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500200,HKD,Downside,12310988.12,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500300,HKD,Base,9013594.22,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500300,HKD,Optimistic,8766162.22,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500300,HKD,Downside,9322884.21,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500400,HKD,Base,5893503.91,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500400,HKD,Optimistic,5731721.45,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500400,HKD,Downside,6095731.99,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500500,HKD,Base,6471298.41,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500500,HKD,Optimistic,6293654.92,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500500,HKD,Downside,6693352.77,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500600,HKD,Base,5431268.31,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500600,HKD,Optimistic,5282174.67,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Wealth Management,500600,HKD,Downside,5617635.36,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400100,HKD,Base,34525354.12,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400100,HKD,Optimistic,36424248.6,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400100,HKD,Downside,32281206.1,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400200,HKD,Base,12690400.43,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400200,HKD,Optimistic,13388372.46,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400200,HKD,Downside,11865524.41,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400300,HKD,Base,17542612.36,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400300,HKD,Optimistic,18507456.04,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400300,HKD,Downside,16402342.56,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400400,HKD,Base,8491370.88,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400400,HKD,Optimistic,8958396.28,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400400,HKD,Downside,7939431.77,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400500,HKD,Base,9797735.63,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400500,HKD,Optimistic,10336611.09,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400500,HKD,Downside,9160882.81,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400600,HKD,Base,7185006.13,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400600,HKD,Optimistic,7580181.47,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,400600,HKD,Downside,6717980.73,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500100,HKD,Base,22649544.44,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500100,HKD,Optimistic,22027792.24,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500100,HKD,Downside,23426734.69,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500200,HKD,Base,9257551.89,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500200,HKD,Optimistic,9003423.01,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500200,HKD,Downside,9575212.98,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500300,HKD,Base,7010573.28,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500300,HKD,Optimistic,6818126.17,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500300,HKD,Downside,7251132.17,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500400,HKD,Base,4583836.37,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500400,HKD,Optimistic,4458005.57,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500400,HKD,Downside,4741124.88,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500500,HKD,Base,5033232.1,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500500,HKD,Optimistic,4895064.95,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500500,HKD,Downside,5205941.05,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500600,HKD,Base,4224319.8,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500600,HKD,Optimistic,4108358.08,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Premier Banking,500600,HKD,Downside,4369271.95,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400100,HKD,Base,48335495.76,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400100,HKD,Optimistic,50993948.03,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400100,HKD,Downside,45193688.54,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400200,HKD,Base,19543216.67,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400200,HKD,Optimistic,20618093.59,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400200,HKD,Downside,18272907.59,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400300,HKD,Base,27015623.04,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400300,HKD,Optimistic,28501482.31,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400300,HKD,Downside,25259607.54,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400400,HKD,Base,11887919.23,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400400,HKD,Optimistic,12541754.79,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400400,HKD,Downside,11115204.48,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400500,HKD,Base,13716829.88,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400500,HKD,Optimistic,14471255.52,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400500,HKD,Downside,12825235.94,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400600,HKD,Base,10059008.58,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400600,HKD,Optimistic,10612254.05,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,400600,HKD,Downside,9405173.02,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500100,HKD,Base,31709362.21,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500100,HKD,Optimistic,30838909.13,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500100,HKD,Downside,32797428.56,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500200,HKD,Base,12960572.66,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500200,HKD,Optimistic,12604792.23,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500200,HKD,Downside,13405298.19,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500300,HKD,Base,9814802.59,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500300,HKD,Optimistic,9545376.63,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500300,HKD,Downside,10151585.03,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500400,HKD,Base,6417370.92,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500400,HKD,Optimistic,6241207.8,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500400,HKD,Downside,6637574.83,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500500,HKD,Base,7046524.94,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500500,HKD,Optimistic,6853090.92,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500500,HKD,Downside,7288317.46,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500600,HKD,Base,5914047.71,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500600,HKD,Optimistic,5751701.3,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Private Banking,500600,HKD,Downside,6116980.72,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400100,HKD,Base,26305031.71,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400100,HKD,Optimistic,27751808.46,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400100,HKD,Downside,24595204.65,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400200,HKD,Base,9668876.52,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400200,HKD,Optimistic,10200664.72,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400200,HKD,Downside,9040399.54,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400300,HKD,Base,13365799.89,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400300,HKD,Optimistic,14100918.88,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400300,HKD,Downside,12497022.9,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400400,HKD,Base,7116577.49,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400400,HKD,Optimistic,7507989.26,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400400,HKD,Downside,6653999.96,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400500,HKD,Base,8211435.58,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400500,HKD,Optimistic,8663064.53,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400500,HKD,Downside,7677692.26,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400600,HKD,Base,5474290.39,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400600,HKD,Optimistic,5775376.36,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,400600,HKD,Downside,5118461.51,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500100,HKD,Base,17256795.77,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500100,HKD,Optimistic,16783079.8,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500100,HKD,Downside,17848940.72,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500200,HKD,Base,7053372.87,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500200,HKD,Optimistic,6859750.87,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500200,HKD,Downside,7295400.37,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500300,HKD,Base,5341389.17,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500300,HKD,Optimistic,5194762.8,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500300,HKD,Downside,5524672.13,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500400,HKD,Base,3492446.76,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500400,HKD,Optimistic,3396575.67,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500400,HKD,Downside,3612285.62,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500500,HKD,Base,3834843.5,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500500,HKD,Optimistic,3729573.29,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500500,HKD,Downside,3966431.27,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500600,HKD,Base,3218529.37,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500600,HKD,Optimistic,3130177.58,2026-09-30,Sep2026_Rolling
+2026-12-01,Hong Kong,Digital Payments,500600,HKD,Downside,3328969.1,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400100,GBP,Base,3716574.83,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400100,GBP,Optimistic,3920986.45,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400100,GBP,Downside,3474997.47,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400200,GBP,Base,1366092.37,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400200,GBP,Optimistic,1441227.45,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400200,GBP,Downside,1277296.36,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400300,GBP,Base,1888421.8,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400300,GBP,Optimistic,1992285.0,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400300,GBP,Downside,1765674.38,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400400,GBP,Base,914076.51,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400400,GBP,Optimistic,964350.72,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400400,GBP,Downside,854661.54,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400500,GBP,Base,1054703.67,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400500,GBP,Optimistic,1112712.37,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400500,GBP,Downside,986147.93,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400600,GBP,Base,773449.35,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400600,GBP,Optimistic,815989.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,400600,GBP,Downside,723175.14,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500100,GBP,Base,2438171.28,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500100,GBP,Optimistic,2371241.08,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500100,GBP,Downside,2521834.01,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500200,GBP,Base,996554.13,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500200,GBP,Optimistic,969197.75,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500200,GBP,Downside,1030749.62,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500300,GBP,Base,754672.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500300,GBP,Optimistic,733955.58,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500300,GBP,Downside,780567.68,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500400,GBP,Base,493439.42,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500400,GBP,Optimistic,479894.03,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500400,GBP,Downside,510371.17,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500500,GBP,Base,541815.84,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500500,GBP,Optimistic,526942.46,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500500,GBP,Downside,560407.56,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500600,GBP,Base,454738.3,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500600,GBP,Optimistic,442255.29,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Wealth Management,500600,GBP,Downside,470342.06,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400100,GBP,Base,2890669.31,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400100,GBP,Optimistic,3049656.12,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400100,GBP,Downside,2702775.8,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400200,GBP,Base,1062516.29,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400200,GBP,Optimistic,1120954.68,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400200,GBP,Downside,993452.73,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400300,GBP,Base,1468772.51,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400300,GBP,Optimistic,1549555.0,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400300,GBP,Downside,1373302.3,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400400,GBP,Base,710948.4,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400400,GBP,Optimistic,750050.56,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400400,GBP,Downside,664736.76,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400500,GBP,Base,820325.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400500,GBP,Optimistic,865442.95,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400500,GBP,Downside,767003.94,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400600,GBP,Base,601571.72,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400600,GBP,Optimistic,634658.17,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,400600,GBP,Downside,562469.56,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500100,GBP,Base,1896355.44,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500100,GBP,Optimistic,1844298.62,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500100,GBP,Downside,1961426.46,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500200,GBP,Base,775097.66,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500200,GBP,Optimistic,753820.47,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500200,GBP,Downside,801694.15,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500300,GBP,Base,586967.16,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500300,GBP,Optimistic,570854.33,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500300,GBP,Downside,607108.19,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500400,GBP,Base,383786.22,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500400,GBP,Optimistic,373250.92,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500400,GBP,Downside,396955.36,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500500,GBP,Base,421412.32,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500500,GBP,Optimistic,409844.14,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500500,GBP,Downside,435872.55,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500600,GBP,Base,353685.34,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500600,GBP,Optimistic,343976.33,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Premier Banking,500600,GBP,Downside,365821.6,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400100,GBP,Base,4046937.03,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400100,GBP,Optimistic,4269518.57,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400100,GBP,Downside,3783886.13,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400200,GBP,Base,1636275.08,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400200,GBP,Optimistic,1726270.21,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400200,GBP,Downside,1529917.2,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400300,GBP,Base,2261909.68,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400300,GBP,Optimistic,2386314.71,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400300,GBP,Downside,2114885.55,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400400,GBP,Base,995327.76,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400400,GBP,Optimistic,1050070.79,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400400,GBP,Downside,930631.46,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400500,GBP,Base,1148455.11,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400500,GBP,Optimistic,1211620.14,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400500,GBP,Downside,1073805.53,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400600,GBP,Base,842200.41,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400600,GBP,Optimistic,888521.44,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,400600,GBP,Downside,787457.39,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500100,GBP,Base,2654897.61,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500100,GBP,Optimistic,2582018.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500100,GBP,Downside,2745997.04,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500200,GBP,Base,1085136.72,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500200,GBP,Optimistic,1055348.66,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500200,GBP,Downside,1122371.81,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500300,GBP,Base,821754.02,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500300,GBP,Optimistic,799196.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500300,GBP,Downside,849951.47,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500400,GBP,Base,537300.71,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500400,GBP,Optimistic,522551.28,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500400,GBP,Downside,555737.5,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500500,GBP,Base,589977.25,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500500,GBP,Optimistic,573781.8,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500500,GBP,Downside,610221.57,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500600,GBP,Base,495159.47,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500600,GBP,Optimistic,481566.86,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Private Banking,500600,GBP,Downside,512150.24,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400100,GBP,Base,2202414.72,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400100,GBP,Optimistic,2323547.53,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400100,GBP,Downside,2059257.76,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400200,GBP,Base,809536.21,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400200,GBP,Optimistic,854060.71,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400200,GBP,Downside,756916.36,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400300,GBP,Base,1119064.78,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400300,GBP,Optimistic,1180613.34,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400300,GBP,Downside,1046325.56,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400400,GBP,Base,595842.46,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400400,GBP,Optimistic,628613.8,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400400,GBP,Downside,557112.7,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400500,GBP,Base,687510.54,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400500,GBP,Optimistic,725323.62,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400500,GBP,Downside,642822.36,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400600,GBP,Base,458340.36,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400600,GBP,Optimistic,483549.08,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,400600,GBP,Downside,428548.23,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500100,GBP,Base,1444842.23,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500100,GBP,Optimistic,1405179.9,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500100,GBP,Downside,1494420.15,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500200,GBP,Base,590550.6,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500200,GBP,Optimistic,574339.41,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500200,GBP,Downside,610814.59,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500300,GBP,Base,447213.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500300,GBP,Optimistic,434936.64,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500300,GBP,Downside,462558.62,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500400,GBP,Base,292408.55,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500400,GBP,Optimistic,284381.64,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500400,GBP,Downside,302442.17,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500500,GBP,Base,321076.05,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500500,GBP,Optimistic,312262.2,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500500,GBP,Downside,332093.36,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500600,GBP,Base,269474.54,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500600,GBP,Optimistic,262077.2,2026-09-30,Sep2026_Rolling
+2026-12-01,United Kingdom,Digital Payments,500600,GBP,Downside,278721.22,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400100,INR,Base,292364663.43,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400100,INR,Optimistic,308444719.92,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400100,INR,Downside,273360960.31,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400200,INR,Base,107463768.18,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400200,INR,Optimistic,113374275.43,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400200,INR,Downside,100478623.25,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400300,INR,Base,148552856.01,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400300,INR,Optimistic,156723263.09,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400300,INR,Downside,138896920.37,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400400,INR,Base,71905903.71,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400400,INR,Optimistic,75860728.41,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400400,INR,Downside,67232019.97,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400500,INR,Base,82968350.44,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400500,INR,Optimistic,87531609.71,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400500,INR,Downside,77575407.66,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400600,INR,Base,60843456.98,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400600,INR,Optimistic,64189847.11,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,400600,INR,Downside,56888632.28,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500100,INR,Base,191798943.29,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500100,INR,Optimistic,186533874.26,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500100,INR,Downside,198380279.58,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500200,INR,Base,78394012.54,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500200,INR,Optimistic,76242020.04,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500200,INR,Downside,81084003.16,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500300,INR,Base,59366339.59,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500300,INR,Optimistic,57736675.37,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500300,INR,Downside,61403419.87,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500400,INR,Base,38816452.81,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500400,INR,Optimistic,37750903.13,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500400,INR,Downside,40148389.92,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500500,INR,Base,42621987.4,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500500,INR,Optimistic,41451972.06,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500500,INR,Downside,44084506.58,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500600,INR,Base,35772025.14,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500600,INR,Optimistic,34790047.97,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Wealth Management,500600,INR,Downside,36999496.59,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400100,INR,Base,227394738.23,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400100,INR,Optimistic,239901448.83,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400100,INR,Downside,212614080.24,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400200,INR,Base,83582930.81,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400200,INR,Optimistic,88179992.0,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400200,INR,Downside,78150040.31,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400300,INR,Base,115541110.24,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400300,INR,Optimistic,121895871.3,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400300,INR,Downside,108030938.07,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400400,INR,Base,55926814.0,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400400,INR,Optimistic,59002788.77,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400400,INR,Downside,52291571.09,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400500,INR,Base,64530939.23,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400500,INR,Optimistic,68080140.88,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400500,INR,Downside,60336428.18,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400600,INR,Base,47322688.76,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400600,INR,Optimistic,49925436.65,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,400600,INR,Downside,44246713.99,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500100,INR,Base,149176955.9,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500100,INR,Optimistic,145081902.21,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500100,INR,Downside,154295773.02,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500200,INR,Base,60973120.87,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500200,INR,Optimistic,59299348.92,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500200,INR,Downside,63065335.8,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500300,INR,Base,46173819.68,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500300,INR,Optimistic,44906303.07,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500300,INR,Downside,47758215.46,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500400,INR,Base,30190574.41,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500400,INR,Optimistic,29361813.55,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500400,INR,Downside,31226525.5,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500500,INR,Base,33150434.65,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500500,INR,Optimistic,32240422.71,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500500,INR,Downside,34287949.56,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500600,INR,Base,27822686.22,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500600,INR,Optimistic,27058926.21,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Premier Banking,500600,INR,Downside,28777386.24,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400100,INR,Base,318352633.52,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400100,INR,Optimistic,335862028.36,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400100,INR,Downside,297659712.34,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400200,INR,Base,128717713.44,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400200,INR,Optimistic,135797187.68,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400200,INR,Downside,120351062.07,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400300,INR,Base,177933309.76,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400300,INR,Optimistic,187719641.8,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400300,INR,Downside,166367644.63,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400400,INR,Base,78297539.59,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400400,INR,Optimistic,82603904.27,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400400,INR,Downside,73208199.52,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400500,INR,Base,90343314.92,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400500,INR,Optimistic,95312197.24,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400500,INR,Downside,84470999.45,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400600,INR,Base,66251764.27,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400600,INR,Optimistic,69895611.31,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,400600,INR,Downside,61945399.59,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500100,INR,Base,208847738.26,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500100,INR,Optimistic,203114663.09,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500100,INR,Downside,216014082.22,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500200,INR,Base,85362369.21,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500200,INR,Optimistic,83019088.49,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500200,INR,Downside,88291470.11,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500300,INR,Base,64643347.55,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500300,INR,Optimistic,62868824.29,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500300,INR,Downside,66861501.64,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500400,INR,Base,42266804.17,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500400,INR,Optimistic,41106538.96,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500400,INR,Downside,43717135.69,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500500,INR,Base,46410608.5,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500500,INR,Optimistic,45136591.79,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500500,INR,Downside,48003129.38,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500600,INR,Base,38951760.7,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500600,INR,Optimistic,37882496.68,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Private Banking,500600,INR,Downside,40288340.73,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400100,INR,Base,173253133.89,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400100,INR,Optimistic,182782056.25,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400100,INR,Downside,161991680.19,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400200,INR,Base,63682233.0,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400200,INR,Optimistic,67184755.81,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400200,INR,Downside,59542887.85,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400300,INR,Base,88031322.08,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400300,INR,Optimistic,92873044.79,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400300,INR,Downside,82309286.15,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400400,INR,Base,46871996.49,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400400,INR,Optimistic,49449956.3,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400400,INR,Downside,43825316.72,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400500,INR,Base,54083072.88,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400500,INR,Optimistic,57057641.89,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400500,INR,Downside,50567673.14,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400600,INR,Base,36055381.92,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400600,INR,Optimistic,38038427.92,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,400600,INR,Downside,33711782.09,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500100,INR,Base,113658633.07,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500100,INR,Optimistic,110538592.16,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500100,INR,Downside,117558684.2,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500200,INR,Base,46455711.14,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500200,INR,Optimistic,45180456.32,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500200,INR,Downside,48049779.66,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500300,INR,Base,35180053.1,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500300,INR,Optimistic,34214326.15,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500300,INR,Downside,36387211.78,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500400,INR,Base,23002342.4,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500400,INR,Optimistic,22370905.55,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500400,INR,Downside,23791638.47,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500500,INR,Base,25257474.02,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500500,INR,Optimistic,24564131.6,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500500,INR,Downside,26124152.05,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500600,INR,Base,21198237.12,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500600,INR,Optimistic,20616324.73,2026-09-30,Sep2026_Rolling
+2026-12-01,India,Digital Payments,500600,INR,Downside,21925627.61,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400100,AED,Base,13977807.2,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400100,AED,Optimistic,14746586.6,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400100,AED,Downside,13069249.73,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400200,AED,Base,5137788.59,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400200,AED,Optimistic,5420366.96,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400200,AED,Downside,4803832.33,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400300,AED,Base,7102237.18,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400300,AED,Optimistic,7492860.22,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400300,AED,Downside,6640591.76,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400400,AED,Base,3437785.01,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400400,AED,Optimistic,3626863.19,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400400,AED,Downside,3214328.99,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400500,AED,Base,3966675.01,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400500,AED,Optimistic,4184842.14,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400500,AED,Downside,3708841.14,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400600,AED,Base,2908895.01,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400600,AED,Optimistic,3068884.24,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,400600,AED,Downside,2719816.84,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500100,AED,Base,9169810.81,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500100,AED,Optimistic,8918090.51,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500100,AED,Downside,9484461.18,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500200,AED,Base,3747978.23,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500200,AED,Optimistic,3645092.55,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500200,AED,Downside,3876585.33,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500300,AED,Base,2838274.78,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500300,AED,Optimistic,2760361.35,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500300,AED,Downside,2935666.56,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500400,AED,Base,1855795.05,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500400,AED,Optimistic,1804851.65,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500400,AED,Downside,1919474.29,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500500,AED,Base,2037735.73,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500500,AED,Optimistic,1981797.89,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500500,AED,Downside,2107658.04,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500600,AED,Base,1710242.5,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500600,AED,Optimistic,1663294.66,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Wealth Management,500600,AED,Downside,1768927.29,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400100,AED,Base,10871627.82,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400100,AED,Optimistic,11469567.35,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400100,AED,Downside,10164972.01,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400200,AED,Base,3996057.8,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400200,AED,Optimistic,4215840.98,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400200,AED,Downside,3736314.04,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400300,AED,Base,5523962.24,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400300,AED,Optimistic,5827780.17,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400300,AED,Downside,5164904.7,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400400,AED,Base,2673832.78,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400400,AED,Optimistic,2820893.59,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400400,AED,Downside,2500033.65,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400500,AED,Base,3085191.68,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400500,AED,Optimistic,3254877.22,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400500,AED,Downside,2884654.22,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400600,AED,Base,2262473.9,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400600,AED,Optimistic,2386909.96,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,400600,AED,Downside,2115413.1,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500100,AED,Base,7132075.08,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500100,AED,Optimistic,6936292.62,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500100,AED,Downside,7376803.14,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500200,AED,Base,2915094.18,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500200,AED,Optimistic,2835071.98,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500200,AED,Downside,3015121.92,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500300,AED,Base,2207547.05,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500300,AED,Optimistic,2146947.72,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500300,AED,Downside,2283296.21,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500400,AED,Base,1443396.15,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500400,AED,Optimistic,1403773.51,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500400,AED,Downside,1492924.45,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500500,AED,Base,1584905.57,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500500,AED,Optimistic,1541398.36,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500500,AED,Downside,1639289.59,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500600,AED,Base,1330188.6,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500600,AED,Optimistic,1293673.62,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Premier Banking,500600,AED,Downside,1375832.33,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400100,AED,Base,15220278.95,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400100,AED,Optimistic,16057394.3,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400100,AED,Downside,14230960.82,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400200,AED,Base,6153929.0,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400200,AED,Optimistic,6492395.1,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400200,AED,Downside,5753923.62,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400300,AED,Base,8506901.85,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400300,AED,Optimistic,8974781.45,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400300,AED,Downside,7953953.23,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400400,AED,Base,3743365.9,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400400,AED,Optimistic,3949251.03,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400400,AED,Downside,3500047.12,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400500,AED,Base,4319268.35,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400500,AED,Optimistic,4556828.11,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400500,AED,Downside,4038515.91,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400600,AED,Base,3167463.46,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400600,AED,Optimistic,3341673.95,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,400600,AED,Downside,2961578.34,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500100,AED,Base,9984905.1,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500100,AED,Optimistic,9710809.66,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500100,AED,Downside,10327524.39,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500200,AED,Base,4081131.85,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500200,AED,Optimistic,3969100.78,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500200,AED,Downside,4221170.69,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500300,AED,Base,3090565.86,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500300,AED,Optimistic,3005726.8,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500300,AED,Downside,3196614.69,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500400,AED,Base,2020754.61,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500400,AED,Optimistic,1965282.91,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500400,AED,Downside,2090094.23,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500500,AED,Base,2218867.8,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500500,AED,Optimistic,2157957.71,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500500,AED,Downside,2295005.42,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500600,AED,Base,1862264.05,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500600,AED,Optimistic,1811143.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Private Banking,500600,AED,Downside,1926165.26,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400100,AED,Base,8283145.01,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400100,AED,Optimistic,8738717.98,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400100,AED,Downside,7744740.58,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400200,AED,Base,3044615.47,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400200,AED,Optimistic,3212069.32,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400200,AED,Downside,2846715.46,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400300,AED,Base,4208733.14,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400300,AED,Optimistic,4440213.47,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400300,AED,Downside,3935165.49,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400400,AED,Base,2240926.53,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400400,AED,Optimistic,2364177.49,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400400,AED,Downside,2095266.3,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400500,AED,Base,2585684.46,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400500,AED,Optimistic,2727897.1,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400500,AED,Downside,2417614.97,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400600,AED,Base,1723789.64,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400600,AED,Optimistic,1818598.07,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,400600,AED,Downside,1611743.31,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500100,AED,Base,5433961.96,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500100,AED,Optimistic,5284794.38,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500100,AED,Downside,5620421.44,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500200,AED,Base,2221024.13,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500200,AED,Optimistic,2160054.84,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500200,AED,Downside,2297235.74,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500300,AED,Base,1681940.61,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500300,AED,Optimistic,1635769.69,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500300,AED,Downside,1739654.25,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500400,AED,Base,1099730.4,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500400,AED,Optimistic,1069541.72,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500400,AED,Downside,1137466.25,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500500,AED,Base,1207547.1,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500500,AED,Optimistic,1174398.75,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500500,AED,Downside,1248982.54,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500600,AED,Base,1013477.04,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500600,AED,Optimistic,985656.1,2026-09-30,Sep2026_Rolling
+2026-12-01,United Arab Emirates,Digital Payments,500600,AED,Downside,1048253.21,2026-09-30,Sep2026_Rolling

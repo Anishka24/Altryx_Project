@@ -1,0 +1,35 @@
+﻿Transaction_ID,Issue_Type,Injected_Problem,Suggested_Handling
+TX00005807,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00012423,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00011151,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00000329,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00013565,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00006542,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00002518,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00000334,Duplicate transaction,Extra copy appended to source extract,Keep one transaction per Transaction_ID
+TX00000140,Unknown account code,Account_Code overwritten with 999999,Flag unmapped GL code for review
+TX00012097,Unknown account code,Account_Code overwritten with 999999,Flag unmapped GL code for review
+TX00009469,Unknown account code,Account_Code overwritten with 999999,Flag unmapped GL code for review
+TX00012975,Unknown account code,Account_Code overwritten with 999999,Flag unmapped GL code for review
+TX00011370,Unknown account code,Account_Code overwritten with 999999,Flag unmapped GL code for review
+TX00002031,Unknown account code,Account_Code overwritten with 999999,Flag unmapped GL code for review
+TX00014229,Unknown account code,Account_Code overwritten with 999999,Flag unmapped GL code for review
+TX00003323,Missing amount,Amount_LCY intentionally blank,Quarantine; do not convert blanks into zero
+TX00003929,Missing amount,Amount_LCY intentionally blank,Quarantine; do not convert blanks into zero
+TX00001756,Missing amount,Amount_LCY intentionally blank,Quarantine; do not convert blanks into zero
+TX00005992,Missing amount,Amount_LCY intentionally blank,Quarantine; do not convert blanks into zero
+TX00001614,Missing amount,Amount_LCY intentionally blank,Quarantine; do not convert blanks into zero
+TX00009119,Missing amount,Amount_LCY intentionally blank,Quarantine; do not convert blanks into zero
+TX00000404,Currency mismatch,Expected functional currency HKD; supplied EUR,Reject or resolve mismatched currency
+TX00006610,Currency mismatch,Expected functional currency HKD; supplied EUR,Reject or resolve mismatched currency
+TX00002742,Currency mismatch,Expected functional currency INR; supplied EUR,Reject or resolve mismatched currency
+TX00005802,Currency mismatch,Expected functional currency INR; supplied EUR,Reject or resolve mismatched currency
+TX00013862,Currency mismatch,Expected functional currency GBP; supplied EUR,Reject or resolve mismatched currency
+TX00011662,Currency mismatch,Expected functional currency HKD; supplied EUR,Reject or resolve mismatched currency
+TX00009763,Posting period mismatch,Posting_Date month does not equal Reporting_Month,Investigate period allocation
+TX00000213,Posting period mismatch,Posting_Date month does not equal Reporting_Month,Investigate period allocation
+TX00011707,Posting period mismatch,Posting_Date month does not equal Reporting_Month,Investigate period allocation
+TX00000090,Posting period mismatch,Posting_Date month does not equal Reporting_Month,Investigate period allocation
+TX00005782,Posting period mismatch,Posting_Date month does not equal Reporting_Month,Investigate period allocation
+TX00000876,Posting period mismatch,Posting_Date month does not equal Reporting_Month,Investigate period allocation
+TX00006217,Posting period mismatch,Posting_Date month does not equal Reporting_Month,Investigate period allocation

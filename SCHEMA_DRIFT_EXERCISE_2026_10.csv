@@ -1,0 +1,19 @@
+﻿Transaction Id,Post Dt,Month,Market,LOB,Product,GL Acct,CCY,Local Amount,Cost Centre,Origin System,Extract Time
+TX00002385,2026-02-19,2026-02-01,United Kingdom,Digital Payments,FX Payments,400500,GBP,43501.4,EU02-04,Core_Ledger,2026-02-28
+TX00002854,2026-02-22,2026-02-01,India,Digital Payments,FX Payments,500600,INR,3039622.38,AP03-04,Finance_GL,2026-02-28
+TX00002500,2026-02-24,2026-02-01,India,Wealth Management,Funds,500100,INR,29882939.67,AP03-01,ERP_Finance,2026-02-28
+TX00000065,2026-01-28,2026-01-01,Hong Kong,Wealth Management,Wealth Advisory,500100,HKD,706228.2,AP01-01,ERP_Finance,2026-01-28
+TX00008619,2026-06-04,2026-06-01,Hong Kong,Digital Payments,Cross-border Transfers,500500,HKD,172553.09,AP01-04,ERP_Finance,2026-06-28
+TX00000523,2026-01-02,2026-01-01,United Kingdom,Premier Banking,Cards,400200,GBP,100139.32,EU02-02,Core_Ledger,2026-01-28
+TX00007249,2026-05-17,2026-05-01,United Kingdom,Private Banking,Private Lending,400600,GBP,69750.89,EU02-03,Core_Ledger,2026-05-28
+TX00004660,2026-03-16,2026-03-01,United Arab Emirates,Premier Banking,Mortgages,400600,AED,284040.63,MI04-02,Core_Ledger,2026-03-28
+TX00008972,2026-06-04,2026-06-01,United Kingdom,Digital Payments,FX Payments,400500,GBP,105566.18,EU02-04,Core_Ledger,2026-06-28
+TX00014364,2026-09-19,2026-09-01,United Arab Emirates,Wealth Management,Investments,400600,AED,285493.29,MI04-01,Core_Ledger,2026-09-28
+TX00009150,2026-06-09,2026-06-01,India,Premier Banking,Deposits,400100,INR,29398014.02,AP03-02,Core_Ledger,2026-06-28
+TX00011698,2026-08-27,2026-08-01,Hong Kong,Private Banking,Private Lending,400100,HKD,3706580.08,AP01-03,Core_Ledger,2026-08-28
+TX00009074,2026-06-24,2026-06-01,India,Wealth Management,Wealth Advisory,400500,INR,9407192.4,AP03-01,Core_Ledger,2026-06-28
+TX00007752,2026-05-23,2026-05-01,India,Digital Payments,Cross-border Transfers,400600,INR,3378301.45,AP03-04,Core_Ledger,2026-05-28
+TX00007517,2026-05-17,2026-05-01,India,Premier Banking,Mortgages,400100,INR,29102022.63,AP03-02,Core_Ledger,2026-05-28
+TX00001077,2026-01-21,2026-01-01,India,Private Banking,Structured Products,400500,INR,13871289.98,AP03-03,Core_Ledger,2026-01-28
+TX00008185,2026-05-08,2026-05-01,United Arab Emirates,Digital Payments,Cross-border Transfers,500300,AED,60354.72,MI04-04,ERP_Finance,2026-05-28
+TX00001159,2026-01-05,2026-01-01,India,Digital Payments,FX Payments,400400,INR,3949360.26,AP03-04,Core_Ledger,2026-01-28

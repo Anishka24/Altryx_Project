@@ -1,0 +1,25 @@
+﻿Section,Details
+ALTeryx | Banking financial management reporting (training dataset),
+Dataset type,100% synthetic and illustrative; NO actual HSBC or customer data
+Reporting context,Multi-market wealth / premier / private banking example
+Reporting currency,GBP. Use Monthly FX Rates: Amount_LCY * GBP_per_1_LCY
+Historical actuals,January 2026 to September 2026 (9 completed reporting months)
+Approved budget,January 2026 to December 2026
+Rolling outlook,"October 2026 to December 2026; Base, Optimistic, Downside"
+Countries,Hong Kong; United Kingdom; India; United Arab Emirates
+Business lines,Wealth Management; Premier Banking; Private Banking; Digital Payments
+Raw transaction amount convention,Positive amounts for both Revenue and Expense; subtract expenses for P&L
+Challenge,"Raw actuals intentionally contain duplicates, null amounts, invalid GL codes, FX mismatches and period mismatches"
+Control totals,GL_Control_Totals shows expected month/country/line/account amounts from clean pre-error records
+Reference answer,Expected_PnL_GBP is generated from the clean underlying source before intentional corruption
+Step 1,"Load monthly actuals CSVs using Directory + Dynamic Input, or load Actuals_Raw worksheet"
+Step 2,"Check required columns and types, detect duplicates by Transaction_ID, quarantine bad records"
+Step 3,Map Account_Code using Account_Mapping; verify Country + Currency using Country_Segments
+Step 4,Join FX rates using Reporting_Month + Currency; convert Amount_LCY to GBP
+Step 5,Group and reconcile local currency actuals to GL_Control_Totals at exact dimensional grain
+Step 6,"Compute Revenue, Expenses, Operating Profit; compare actual against budget on matching grain"
+Step 7,Combine Jan-Sep actual with Oct-Dec scenario forecast to calculate 2026 estimated P&L
+Step 8,Publish Excel exception file and Power BI-ready P&L output; schedule with failure gating
+Technical note,Monthly files in CSV ZIP intentionally share one schema; an extra schema-drift test file is supplied separately
+Financial note,This is a simplified illustrative management P&L; it is not IFRS regulatory reporting
+Use case,"Portfolio project, Alteryx learning, interview preparation"

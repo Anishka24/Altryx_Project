@@ -1,0 +1,67 @@
+﻿Table,Column,Definition,Provenance
+Account_Mapping,Account_Code,General-ledger account identifier; maps to P&L category,Synthetic generated demo data
+Account_Mapping,Account_Name,Account Name field,Synthetic generated demo data
+Account_Mapping,Account_Class,Revenue or Expense,Synthetic generated demo data
+Account_Mapping,P&L_Category,Management P&L grouping,Synthetic generated demo data
+Account_Mapping,Statement_Treatment,"Income, operating expense or credit impairment",Synthetic generated demo data
+Account_Mapping,Baseline_GBP_Month,Synthetic modelling parameter only; not actual bank results,Synthetic generated demo data
+Account_Mapping,Cost_or_Revenue_Driver,Cost or Revenue Driver field,Synthetic generated demo data
+Country_Segments,Country,Country or market in which the business line operates,Synthetic generated demo data
+Country_Segments,Region,Region field,Synthetic generated demo data
+Country_Segments,Functional_Currency,Functional Currency field,Synthetic generated demo data
+Country_Segments,Business_Line,Business reporting segment,Synthetic generated demo data
+Country_Segments,Finance_Owner,Finance Owner field,Synthetic generated demo data
+Country_Segments,Segment_Factor,Segment Factor field,Synthetic generated demo data
+FX_Rates,Reporting_Month,Finance reporting month; always the first day of the month,Synthetic generated demo data
+FX_Rates,Currency,"Local currency used for amount, typically functional currency",Synthetic generated demo data
+FX_Rates,GBP_per_1_LCY,Multiply amount in local currency by rate to obtain synthetic GBP equivalent,Synthetic generated demo data
+FX_Rates,FX_Rate_Type,FX Rate Type field,Synthetic generated demo data
+Actuals_Raw,Transaction_ID,Source transaction identifier; duplicates intentionally present,Synthetic generated demo data
+Actuals_Raw,Posting_Date,Date the transaction was posted to source ledger,Synthetic generated demo data
+Actuals_Raw,Reporting_Month,Finance reporting month; always the first day of the month,Synthetic generated demo data
+Actuals_Raw,Country,Country or market in which the business line operates,Synthetic generated demo data
+Actuals_Raw,Business_Line,Business reporting segment,Synthetic generated demo data
+Actuals_Raw,Product,Customer-facing product dimension for drilldowns,Synthetic generated demo data
+Actuals_Raw,Account_Code,General-ledger account identifier; maps to P&L category,Synthetic generated demo data
+Actuals_Raw,Currency,"Local currency used for amount, typically functional currency",Synthetic generated demo data
+Actuals_Raw,Amount_LCY,Transaction amount in local currency; positive magnitude for both income and expenses,Synthetic generated demo data
+Actuals_Raw,Cost_Center,Illustrative internal cost centre,Synthetic generated demo data
+Actuals_Raw,Source_System,Simulated source application name,Synthetic generated demo data
+Actuals_Raw,Load_Timestamp,Simulated extract load timestamp,Synthetic generated demo data
+Budget_2026,Reporting_Month,Finance reporting month; always the first day of the month,Synthetic generated demo data
+Budget_2026,Country,Country or market in which the business line operates,Synthetic generated demo data
+Budget_2026,Business_Line,Business reporting segment,Synthetic generated demo data
+Budget_2026,Account_Code,General-ledger account identifier; maps to P&L category,Synthetic generated demo data
+Budget_2026,Currency,"Local currency used for amount, typically functional currency",Synthetic generated demo data
+Budget_2026,Budget_LCY,Approved monthly budget in local currency,Synthetic generated demo data
+Budget_2026,Budget_Version,Budget Version field,Synthetic generated demo data
+Forecast_Q4_2026,Reporting_Month,Finance reporting month; always the first day of the month,Synthetic generated demo data
+Forecast_Q4_2026,Country,Country or market in which the business line operates,Synthetic generated demo data
+Forecast_Q4_2026,Business_Line,Business reporting segment,Synthetic generated demo data
+Forecast_Q4_2026,Account_Code,General-ledger account identifier; maps to P&L category,Synthetic generated demo data
+Forecast_Q4_2026,Currency,"Local currency used for amount, typically functional currency",Synthetic generated demo data
+Forecast_Q4_2026,Scenario,"Base, Optimistic, Downside",Synthetic generated demo data
+Forecast_Q4_2026,Forecast_LCY,Scenario-specific projection in local currency,Synthetic generated demo data
+Forecast_Q4_2026,Forecast_As_Of,Date when scenario outlook was prepared,Synthetic generated demo data
+Forecast_Q4_2026,Forecast_Version,Forecast Version field,Synthetic generated demo data
+GL_Control_Totals,Reporting_Month,Finance reporting month; always the first day of the month,Synthetic generated demo data
+GL_Control_Totals,Country,Country or market in which the business line operates,Synthetic generated demo data
+GL_Control_Totals,Business_Line,Business reporting segment,Synthetic generated demo data
+GL_Control_Totals,Account_Code,General-ledger account identifier; maps to P&L category,Synthetic generated demo data
+GL_Control_Totals,Currency,"Local currency used for amount, typically functional currency",Synthetic generated demo data
+GL_Control_Totals,Control_Amount_LCY,Pre-corruption GL control amount in local currency,Synthetic generated demo data
+GL_Control_Totals,Control_Transaction_Count,Pre-corruption count of distinct source transactions,Synthetic generated demo data
+Known_Exceptions,Transaction_ID,Source transaction identifier; duplicates intentionally present,Synthetic generated demo data
+Known_Exceptions,Issue_Type,Issue Type field,Synthetic generated demo data
+Known_Exceptions,Injected_Problem,Injected Problem field,Synthetic generated demo data
+Known_Exceptions,Suggested_Handling,Suggested Handling field,Synthetic generated demo data
+Expected_PnL_GBP,Reporting_Month,Finance reporting month; always the first day of the month,Synthetic generated demo data
+Expected_PnL_GBP,Country,Country or market in which the business line operates,Synthetic generated demo data
+Expected_PnL_GBP,Business_Line,Business reporting segment,Synthetic generated demo data
+Expected_PnL_GBP,Revenue_GBP,Revenue GBP field,Synthetic generated demo data
+Expected_PnL_GBP,Expense_GBP,"Total cleaned positive expense magnitude, reported in GBP",Synthetic generated demo data
+Expected_PnL_GBP,Operating_Profit_GBP,"Revenue_GBP minus Expense_GBP, after cleanup and normalization",Synthetic generated demo data
+Forecast_Assumptions,Scenario,"Base, Optimistic, Downside",Synthetic generated demo data
+Forecast_Assumptions,Revenue_vs_Base,Revenue vs Base field,Synthetic generated demo data
+Forecast_Assumptions,Expense_vs_Base,Expense vs Base field,Synthetic generated demo data
+Forecast_Assumptions,Business_Interpretation,Business Interpretation field,Synthetic generated demo data

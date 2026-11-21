@@ -1,0 +1,4 @@
+﻿Scenario,Revenue_vs_Base,Expense_vs_Base,Business_Interpretation
+Base,1.0,1.02,Central case; normal underlying revenue trend and cost pressure
+Optimistic,1.055,0.992,Higher income and improved cost discipline
+Downside,0.935,1.055,Lower income and additional cost pressure
